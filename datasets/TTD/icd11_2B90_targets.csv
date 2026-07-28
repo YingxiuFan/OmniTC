@@ -1,0 +1,17 @@
+﻿# Colon cancer (Colon cancer)
+# ICD-11代码: 2B90
+TARGETID	GENENAME	TARGTYPE	TARGNAME
+T09538	ALPL	Successful	Alkaline phosphatase tissue-nonspecific (ALPL)
+T14731	SIRT1	Clinical trial	NAD-dependent deacetylase sirtuin-1 (SIRT1)
+T16514	FASN	Successful	Fatty acid synthase (FASN)
+T31391	DPP4	Successful	Dipeptidyl peptidase 4 (DPP-4)
+T35792	SMYD3	Preclinical	Histone-lysine N-methyltransferase SMYD3 (SMYD3)
+T47863	EPCAM	Clinical trial	Tumor-associated calcium signal transducer 1 (EPCAM)
+T52227	Candi TMP1	Successful	Candida Thymidylate synthase (Candi TMP1)
+T52969	N/A	Discontinued	CAP-dependent endonuclease (CDE)
+T53524	PDGFRA	Successful	Platelet-derived growth factor receptor alpha (PDGFRA)
+T53764	FAP	Clinical trial	Prolyl endopeptidase FAP (FAP)
+T59328	EGFR	Successful	Epidermal growth factor receptor (EGFR)
+T60631	RET	Successful	Proto-oncogene c-Ret (RET)
+T82795	CTNNB1	Successful	Beta-catenin (CTNNB1)
+T99948	CD274	Successful	Programmed cell death 1 ligand 1 (PD-L1)

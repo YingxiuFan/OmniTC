@@ -1,0 +1,50 @@
+# 三阴性乳腺癌 (Triple-Negative Breast Cancer)
+# ICD-11 代码：TNBC
+TARGETID	GENENAME	TARGTYPE	TARGNAME
+T_TNBC_001	CSF1R	Clinical trial	Colony stimulating factor-1 receptor
+T_TNBC_002	MKNK1	Clinical trial	MAP kinase-interacting serine/threonine-protein kinase 1
+T_TNBC_003	MKNK2	Clinical trial	MAP kinase-interacting serine/threonine-protein kinase 2
+T_TNBC_004	AURKA	Clinical trial	Aurora kinase A
+T_TNBC_005	PKM	Clinical trial	Pyruvate kinase PKM
+T_TNBC_006	MUC1	Clinical trial	Mucin-1
+T_TNBC_007	DDX5	Clinical trial	Probable ATP-dependent RNA helicase DDX5
+T_TNBC_008	CDK4	Clinical trial	Cyclin-dependent kinase 4
+T_TNBC_009	CDK6	Clinical trial	Cyclin-dependent kinase 6
+T_TNBC_010	FGFR3	Clinical trial	Fibroblast growth factor receptor 3
+T_TNBC_011	PDGFRA	Clinical trial	Platelet-derived growth factor receptor alpha
+T_TNBC_012	PDGFRB	Clinical trial	Platelet-derived growth factor receptor beta
+T_TNBC_013	AKT3	Clinical trial	RAC-gamma serine/threonine-protein kinase
+T_TNBC_014	AKT1	Clinical trial	RAC-alpha serine/threonine-protein kinase
+T_TNBC_015	SLAMF7	Clinical trial	Signaling lymphocytic activation molecule family member 7
+T_TNBC_016	PRKAA1	Clinical trial	5'-AMP-activated protein kinase catalytic subunit alpha-1
+T_TNBC_017	PRKAA2	Clinical trial	5'-AMP-activated protein kinase catalytic subunit alpha-2
+T_TNBC_018	MDM2	Clinical trial	E3 ubiquitin-protein ligase Mdm2
+T_TNBC_019	RPS6KB2	Clinical trial	Ribosomal protein S6 kinase beta-2
+T_TNBC_020	CDK2	Clinical trial	Cyclin-dependent kinase 2
+T_TNBC_021	AXL	Clinical trial	Tyrosine-protein kinase receptor UFO
+T_TNBC_022	RPS6KA3	Clinical trial	Ribosomal protein S6 kinase alpha-3
+T_TNBC_023	PARP1	Clinical trial	Poly [ADP-ribose] polymerase 1
+T_TNBC_024	PARP2	Clinical trial	Poly [ADP-ribose] polymerase 2
+T_TNBC_025	AR	Clinical trial	Androgen receptor
+T_TNBC_026	PIK3CA	Clinical trial	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha
+T_TNBC_027	MTOR	Clinical trial	Serine/threonine-protein kinase mTOR
+T_TNBC_028	EGFR	Clinical trial	Epidermal growth factor receptor
+T_TNBC_029	FGFR1	Clinical trial	Fibroblast growth factor receptor 1
+T_TNBC_030	FGFR2	Clinical trial	Fibroblast growth factor receptor 2
+T_TNBC_031	FLT1	Clinical trial	Vascular endothelial growth factor receptor 1
+T_TNBC_032	KDR	Clinical trial	Vascular endothelial growth factor receptor 2
+T_TNBC_033	FLT4	Clinical trial	Vascular endothelial growth factor receptor 3
+T_TNBC_034	VEGFA	Clinical trial	Vascular endothelial growth factor A
+T_TNBC_035	TACSTD2	Clinical trial	Tumor-associated calcium signal transducer 2
+T_TNBC_036	NOTCH1	Clinical trial	Neurogenic locus notch homolog protein 1
+T_TNBC_037	NOTCH2	Clinical trial	Neurogenic locus notch homolog protein 2
+T_TNBC_038	NOTCH3	Clinical trial	Neurogenic locus notch homolog protein 3
+T_TNBC_039	NOTCH4	Clinical trial	Neurogenic locus notch homolog protein 4
+T_TNBC_040	STAT3	Clinical trial	Signal transducer and activator of transcription 3
+T_TNBC_041	TGFB1	Clinical trial	Transforming growth factor beta-1
+T_TNBC_042	TGFB2	Clinical trial	Transforming growth factor beta-2
+T_TNBC_043	TGFB3	Clinical trial	Transforming growth factor beta-3
+T_TNBC_044	ICAM1	Clinical trial	Intercellular adhesion molecule 1
+T_TNBC_045	GPX4	Clinical trial	Phospholipid hydroperoxide glutathione peroxidase
+T_TNBC_046	MTHFD2	Clinical trial	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase
+T_TNBC_047	CERS2	Clinical trial	Ceramide synthase 2

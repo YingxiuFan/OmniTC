@@ -1,0 +1,1842 @@
+﻿tpid,tp_name,genename1,genename2,fd_name,md_name,specific_cancer
+TP00003,ABL1;CYP19A1,ABL1,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00004,ABL1;EGFR,ABL1,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00005,ABL1;ERBB2,ABL1,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00006,ABL1;ERBB4,ABL1,ERBB4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00007,ABL1;ESR1,ABL1,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00008,ABL1;ESR2,ABL1,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00009,ABL1;FLT1,ABL1,FLT1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00010,ABL1;FLT4,ABL1,FLT4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00013,ABL1;KDR,ABL1,KDR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00014,ABL1;MAP2K1,ABL1,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00015,ABL1;MAP2K2,ABL1,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00020,ABL1;PDCD1,ABL1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00025,ADORA2A;AR,ADORA2A,AR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00026,ADORA2A;CD274,ADORA2A,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00027,ADORA2A;CYP17A1,ADORA2A,CYP17A1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00028,ADORA2A;EGFR,ADORA2A,EGFR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00029,ADORA2A;ERBB3,ADORA2A,ERBB3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00030,ADORA2A;NT5E,ADORA2A,NT5E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00031,ADORA2A;PDCD1,ADORA2A,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00032,ADORA2A;TIGIT,ADORA2A,TIGIT,Lung Cancer,Lung Cancer,Lung Cancer
+TP00033,ADORA2B;EGFR,ADORA2B,EGFR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00034,ADORA2B;ERBB3,ADORA2B,ERBB3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00035,ADORA2B;PDCD1,ADORA2B,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00036,AKT1;AR,AKT1,AR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00037,AKT1;CD274,AKT1,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00037,AKT1;CD274,AKT1,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00038,AKT1;CYP17A1,AKT1,CYP17A1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00038,AKT1;CYP17A1,AKT1,CYP17A1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00039,AKT1;CYP19A1,AKT1,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00040,AKT1;EGFR,AKT1,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00041,AKT1;ERBB2,AKT1,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00042,AKT1;ESR1,AKT1,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00042,AKT1;ESR1,AKT1,ESR1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00043,AKT1;ESR2,AKT1,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00043,AKT1;ESR2,AKT1,ESR2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00045,AKT1;MAP2K1,AKT1,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00046,AKT1;MAP2K2,AKT1,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00050,AKT2;AR,AKT2,AR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00051,AKT2;CD274,AKT2,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00051,AKT2;CD274,AKT2,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00052,AKT2;CYP17A1,AKT2,CYP17A1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00052,AKT2;CYP17A1,AKT2,CYP17A1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00053,AKT2;CYP19A1,AKT2,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00054,AKT2;EGFR,AKT2,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00055,AKT2;ERBB2,AKT2,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00056,AKT2;ESR1,AKT2,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00056,AKT2;ESR1,AKT2,ESR1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00057,AKT2;ESR2,AKT2,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00057,AKT2;ESR2,AKT2,ESR2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00059,AKT2;MAP2K1,AKT2,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00060,AKT2;MAP2K2,AKT2,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00064,AKT3;AR,AKT3,AR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00065,AKT3;CD274,AKT3,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00065,AKT3;CD274,AKT3,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00066,AKT3;CYP17A1,AKT3,CYP17A1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00066,AKT3;CYP17A1,AKT3,CYP17A1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00067,AKT3;CYP19A1,AKT3,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00068,AKT3;EGFR,AKT3,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00069,AKT3;ERBB2,AKT3,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00070,AKT3;ESR1,AKT3,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00070,AKT3;ESR1,AKT3,ESR1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00071,AKT3;ESR2,AKT3,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00071,AKT3;ESR2,AKT3,ESR2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00073,AKT3;MAP2K1,AKT3,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00074,AKT3;MAP2K2,AKT3,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00078,ALCAM;CD274,ALCAM,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00079,ALK;AR,ALK,AR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00080,ALK;CD274,ALK,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00081,ALK;CDK4,ALK,CDK4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00082,ALK;CDK6,ALK,CDK6,Lung Cancer,Lung Cancer,Lung Cancer
+TP00083,ALK;CTLA4,ALK,CTLA4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00084,ALK;EGFR,ALK,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00085,ALK;HSP90AA1,ALK,HSP90AA1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00086,ALK;HSP90AB1,ALK,HSP90AB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00087,ALK;KDR,ALK,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00088,ALK;MAP2K1,ALK,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00088,ALK;MAP2K1,ALK,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00089,ALK;MAP2K2,ALK,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00089,ALK;MAP2K2,ALK,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00090,ALK;MTOR,ALK,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00091,ALK;PDCD1,ALK,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00092,ALK;PTPN11,ALK,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP00093,ALK;VEGFA,ALK,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00094,ANGPT1;MTOR,ANGPT1,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00099,ANGPT2;MTOR,ANGPT2,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00100,ANGPT2;PDCD1,ANGPT2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00101,ANGPT2;VEGFA,ANGPT2,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00101,ANGPT2;VEGFA,ANGPT2,VEGFA,Liver Cancer,Liver Cancer,Liver Cancer
+TP00101,ANGPT2;VEGFA,ANGPT2,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00101,ANGPT2;VEGFA,ANGPT2,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00102,AR;BRD2,AR,BRD2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00103,AR;BRD3,AR,BRD3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00104,AR;BRD4,AR,BRD4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00105,AR;BRDT,AR,BRDT,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00106,AR;CD274,AR,CD274,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00107,AR;CDK2,AR,CDK2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00108,AR;CDK4,AR,CDK4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00108,AR;CDK4,AR,CDK4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00109,AR;CDK6,AR,CDK6,Breast Cancer,Breast Cancer,Breast Cancer
+TP00109,AR;CDK6,AR,CDK6,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00110,AR;CYP19A1,AR,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00111,AR;ENG,AR,ENG,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00112,AR;ERBB2,AR,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00113,AR;FASN,AR,FASN,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00114,AR;FLT1,AR,FLT1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00115,AR;FLT4,AR,FLT4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00116,AR;GNRHR,AR,GNRHR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00117,AR;HDAC1,AR,HDAC1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00118,AR;HDAC10,AR,HDAC10,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00119,AR;HDAC11,AR,HDAC11,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00120,AR;HDAC2,AR,HDAC2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00121,AR;HDAC3,AR,HDAC3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00122,AR;HDAC4,AR,HDAC4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00123,AR;HDAC5,AR,HDAC5,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00124,AR;HDAC6,AR,HDAC6,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00125,AR;HDAC7,AR,HDAC7,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00126,AR;HDAC8,AR,HDAC8,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00127,AR;HDAC9,AR,HDAC9,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00128,AR;KDR,AR,KDR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00129,AR;MET,AR,MET,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00130,AR;MTOR,AR,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00131,AR;PARP1,AR,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00132,AR;PARP2,AR,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00133,AR;PIK3CA,AR,PIK3CA,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00133,AR;PIK3CA,AR,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00134,AR;PIK3CB,AR,PIK3CB,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00135,AR;TGFBR1,AR,TGFBR1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00136,AR;TNFSF11,AR,TNFSF11,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00139,ARAF;KRAS,ARAF,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00140,ARAF;MAP2K1,ARAF,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00140,ARAF;MAP2K1,ARAF,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00140,ARAF;MAP2K1,ARAF,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00141,ARAF;MAP2K2,ARAF,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00141,ARAF;MAP2K2,ARAF,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00141,ARAF;MAP2K2,ARAF,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00142,ARAF;MTOR,ARAF,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00143,ARAF;PDCD1,ARAF,PDCD1,Melanoma,Melanoma,Melanoma
+TP00144,ARAF;PTK2,ARAF,PTK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00144,ARAF;PTK2,ARAF,PTK2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00144,ARAF;PTK2,ARAF,PTK2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00145,ARG1;PDCD1,ARG1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00147,ATR;CD274,ATR,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00147,ATR;CD274,ATR,CD274,Liver Cancer,Liver Cancer,Liver Cancer
+TP00147,ATR;CD274,ATR,CD274,Melanoma,Melanoma,Melanoma
+TP00148,ATR;PARP1,ATR,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00148,ATR;PARP1,ATR,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00149,ATR;PARP2,ATR,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00149,ATR;PARP2,ATR,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00150,ATR;PDCD1,ATR,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00155,AURKA;EGFR,AURKA,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00156,AURKA;KRAS,AURKA,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00157,AURKA;MTOR,AURKA,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00162,AXL;CD274,AXL,CD274,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00162,AXL;CD274,AXL,CD274,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00163,AXL;EGFR,AXL,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00164,AXL;PDCD1,AXL,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00164,AXL;PDCD1,AXL,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00164,AXL;PDCD1,AXL,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00164,AXL;PDCD1,AXL,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00170,BCL2;CDK4,BCL2,CDK4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00172,BCL2;CDK6,BCL2,CDK6,Breast Cancer,Breast Cancer,Breast Cancer
+TP00174,BCL2;EGFR,BCL2,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00175,BCL2;ESR1,BCL2,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00176,BCL2;ESR2,BCL2,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00195,BCL2;PDCD1,BCL2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00204,BIRC2;CD274,BIRC2,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00205,BIRC2;PDCD1,BIRC2,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00205,BIRC2;PDCD1,BIRC2,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00205,BIRC2;PDCD1,BIRC2,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00205,BIRC2;PDCD1,BIRC2,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00205,BIRC2;PDCD1,BIRC2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00206,BIRC2;TNFRSF10B,BIRC2,TNFRSF10B,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00207,BIRC3;CD274,BIRC3,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00208,BIRC3;PDCD1,BIRC3,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00208,BIRC3;PDCD1,BIRC3,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00208,BIRC3;PDCD1,BIRC3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00209,BIRC3;TNFRSF10B,BIRC3,TNFRSF10B,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00210,BIRC5;CD3D,BIRC5,CD3D,Lung Cancer,Lung Cancer,Lung Cancer
+TP00211,BIRC5;CD3E,BIRC5,CD3E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00212,BIRC5;CD3G,BIRC5,CD3G,Lung Cancer,Lung Cancer,Lung Cancer
+TP00213,BRAF;CDK4,BRAF,CDK4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00213,BRAF;CDK4,BRAF,CDK4,Melanoma,Melanoma,Melanoma
+TP00214,BRAF;CDK6,BRAF,CDK6,Lung Cancer,Lung Cancer,Lung Cancer
+TP00214,BRAF;CDK6,BRAF,CDK6,Melanoma,Melanoma,Melanoma
+TP00215,BRAF;CSF1R,BRAF,CSF1R,Melanoma,Melanoma,Melanoma
+TP00216,BRAF;CTLA4,BRAF,CTLA4,Melanoma,Melanoma,Melanoma
+TP00217,BRAF;EGFR,BRAF,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00217,BRAF;EGFR,BRAF,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00219,BRAF;IL2RA,BRAF,IL2RA,Melanoma,Melanoma,Melanoma
+TP00220,BRAF;IL2RB,BRAF,IL2RB,Melanoma,Melanoma,Melanoma
+TP00221,BRAF;IL2RG,BRAF,IL2RG,Melanoma,Melanoma,Melanoma
+TP00222,BRAF;KRAS,BRAF,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00223,BRAF;MAP2K1,BRAF,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00223,BRAF;MAP2K1,BRAF,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00223,BRAF;MAP2K1,BRAF,MAP2K1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00223,BRAF;MAP2K1,BRAF,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00224,BRAF;MAP2K2,BRAF,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00224,BRAF;MAP2K2,BRAF,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00224,BRAF;MAP2K2,BRAF,MAP2K2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00224,BRAF;MAP2K2,BRAF,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00225,BRAF;MAPK1,BRAF,MAPK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00225,BRAF;MAPK1,BRAF,MAPK1,Melanoma,Melanoma,Melanoma
+TP00226,BRAF;MAPK3,BRAF,MAPK3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00226,BRAF;MAPK3,BRAF,MAPK3,Melanoma,Melanoma,Melanoma
+TP00227,BRAF;MTOR,BRAF,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00228,BRAF;PDCD1,BRAF,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00228,BRAF;PDCD1,BRAF,PDCD1,Melanoma,Melanoma,Melanoma
+TP00229,BRAF;PIK3CA,BRAF,PIK3CA,Melanoma,Melanoma,Melanoma
+TP00230,BRAF;PIK3CB,BRAF,PIK3CB,Melanoma,Melanoma,Melanoma
+TP00231,BRAF;PIK3CD,BRAF,PIK3CD,Melanoma,Melanoma,Melanoma
+TP00232,BRAF;PIK3CG,BRAF,PIK3CG,Melanoma,Melanoma,Melanoma
+TP00233,BRAF;PTK2,BRAF,PTK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00233,BRAF;PTK2,BRAF,PTK2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00233,BRAF;PTK2,BRAF,PTK2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00234,BRAF;RXRA,BRAF,RXRA,Melanoma,Melanoma,Melanoma
+TP00235,BRAF;RXRB,BRAF,RXRB,Melanoma,Melanoma,Melanoma
+TP00236,BRAF;RXRG,BRAF,RXRG,Melanoma,Melanoma,Melanoma
+TP00237,BRAF;TP53,BRAF,TP53,Melanoma,Melanoma,Melanoma
+TP00238,BRAF;VEGFA,BRAF,VEGFA,Melanoma,Melanoma,Melanoma
+TP00239,BRD2;CD274,BRD2,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00239,BRD2;CD274,BRD2,CD274,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00240,BRD2;CYP19A1,BRD2,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00241,BRD2;ESR1,BRD2,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00242,BRD2;ESR2,BRD2,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00243,BRD2;PARP1,BRD2,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00243,BRD2;PARP1,BRD2,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00244,BRD2;PARP2,BRD2,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00244,BRD2;PARP2,BRD2,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00246,BRD3;CD274,BRD3,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00246,BRD3;CD274,BRD3,CD274,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00247,BRD3;CYP19A1,BRD3,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00248,BRD3;ESR1,BRD3,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00249,BRD3;ESR2,BRD3,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00250,BRD3;PARP1,BRD3,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00250,BRD3;PARP1,BRD3,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00251,BRD3;PARP2,BRD3,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00251,BRD3;PARP2,BRD3,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00253,BRD4;CD274,BRD4,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00253,BRD4;CD274,BRD4,CD274,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00254,BRD4;CYP19A1,BRD4,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00255,BRD4;ESR1,BRD4,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00256,BRD4;ESR2,BRD4,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00257,BRD4;PARP1,BRD4,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00257,BRD4;PARP1,BRD4,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00258,BRD4;PARP2,BRD4,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00258,BRD4;PARP2,BRD4,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00260,BRDT;CD274,BRDT,CD274,Breast Cancer,Breast Cancer,Breast Cancer
+TP00260,BRDT;CD274,BRDT,CD274,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00261,BRDT;CYP19A1,BRDT,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00262,BRDT;ESR1,BRDT,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00263,BRDT;ESR2,BRDT,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00264,BRDT;PARP1,BRDT,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00264,BRDT;PARP1,BRDT,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00265,BRDT;PARP2,BRDT,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00265,BRDT;PARP2,BRDT,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00268,BTK;CD274,BTK,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00287,BTK;PDCD1,BTK,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00291,BTLA;PDCD1,BTLA,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00292,CAPRIN1;PDCD1,CAPRIN1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00293,CAPRIN1;VEGFA,CAPRIN1,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00295,CCR2;PDCD1,CCR2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00295,CCR2;PDCD1,CCR2,PDCD1,Melanoma,Melanoma,Melanoma
+TP00296,CCR2;STING1,CCR2,STING1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00297,CCR4;CTLA4,CCR4,CTLA4,Melanoma,Melanoma,Melanoma
+TP00299,CCR4;PDCD1,CCR4,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00299,CCR4;PDCD1,CCR4,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00299,CCR4;PDCD1,CCR4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00301,CCR5;PDCD1,CCR5,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00302,CCR8;PDCD1,CCR8,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00303,CD163;PDCD1,CD163,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00323,CD27;CD274,CD27,CD274,Lung Cancer,Lung Cancer,Lung Cancer
+TP00324,CD27;PDCD1,CD27,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00326,CD274;CD38,CD274,CD38,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00326,CD274;CD38,CD274,CD38,Lung Cancer,Lung Cancer,Lung Cancer
+TP00327,CD274;CD3D,CD274,CD3D,Lung Cancer,Lung Cancer,Lung Cancer
+TP00327,CD274;CD3D,CD274,CD3D,Melanoma,Melanoma,Melanoma
+TP00328,CD274;CD3E,CD274,CD3E,Melanoma,Melanoma,Melanoma
+TP00328,CD274;CD3E,CD274,CD3E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00329,CD274;CD3G,CD274,CD3G,Melanoma,Melanoma,Melanoma
+TP00329,CD274;CD3G,CD274,CD3G,Lung Cancer,Lung Cancer,Lung Cancer
+TP00331,CD274;CD47,CD274,CD47,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00331,CD274;CD47,CD274,CD47,Lung Cancer,Lung Cancer,Lung Cancer
+TP00331,CD274;CD47,CD274,CD47,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00331,CD274;CD47,CD274,CD47,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00331,CD274;CD47,CD274,CD47,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00331,CD274;CD47,CD274,CD47,Breast Cancer,Breast Cancer,Breast Cancer
+TP00332,CD274;CDK4,CD274,CDK4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00332,CD274;CDK4,CD274,CDK4,Melanoma,Melanoma,Melanoma
+TP00332,CD274;CDK4,CD274,CDK4,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00332,CD274;CDK4,CD274,CDK4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00333,CD274;CDK6,CD274,CDK6,Breast Cancer,Breast Cancer,Breast Cancer
+TP00333,CD274;CDK6,CD274,CDK6,Melanoma,Melanoma,Melanoma
+TP00333,CD274;CDK6,CD274,CDK6,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00333,CD274;CDK6,CD274,CDK6,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00334,CD274;CEACAM5,CD274,CEACAM5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00338,CD274;CREBBP,CD274,CREBBP,Lung Cancer,Lung Cancer,Lung Cancer
+TP00339,CD274;CSF1R,CD274,CSF1R,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00339,CD274;CSF1R,CD274,CSF1R,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00339,CD274;CSF1R,CD274,CSF1R,Liver Cancer,Liver Cancer,Liver Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Liver Cancer,Liver Cancer,Liver Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00340,CD274;CTLA4,CD274,CTLA4,Melanoma,Melanoma,Melanoma
+TP00340,CD274;CTLA4,CD274,CTLA4,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00341,CD274;CXCR4,CD274,CXCR4,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00341,CD274;CXCR4,CD274,CXCR4,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00342,CD274;CYP19A1,CD274,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00343,CD274;DPP4,CD274,DPP4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00344,CD274;EGFR,CD274,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00344,CD274;EGFR,CD274,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00345,CD274;EP300,CD274,EP300,Lung Cancer,Lung Cancer,Lung Cancer
+TP00346,CD274;EPCAM,CD274,EPCAM,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00347,CD274;ERBB2,CD274,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00347,CD274;ERBB2,CD274,ERBB2,Liver Cancer,Liver Cancer,Liver Cancer
+TP00347,CD274;ERBB2,CD274,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00348,CD274;ESR1,CD274,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00349,CD274;ESR2,CD274,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00351,CD274;FAP,CD274,FAP,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00352,CD274;FGFR1,CD274,FGFR1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00353,CD274;FGFR3,CD274,FGFR3,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00354,CD274;FLT1,CD274,FLT1,Melanoma,Melanoma,Melanoma
+TP00356,CD274;FLT4,CD274,FLT4,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Melanoma,Melanoma,Melanoma
+TP00356,CD274;FLT4,CD274,FLT4,Liver Cancer,Liver Cancer,Liver Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00356,CD274;FLT4,CD274,FLT4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00357,CD274;FOXP3,CD274,FOXP3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00358,CD274;GEM,CD274,GEM,Lung Cancer,Lung Cancer,Lung Cancer
+TP00359,CD274;HAVCR2,CD274,HAVCR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00359,CD274;HAVCR2,CD274,HAVCR2,Melanoma,Melanoma,Melanoma
+TP00359,CD274;HAVCR2,CD274,HAVCR2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00360,CD274;HDAC1,CD274,HDAC1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00360,CD274;HDAC1,CD274,HDAC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00361,CD274;HDAC10,CD274,HDAC10,Lung Cancer,Lung Cancer,Lung Cancer
+TP00362,CD274;HDAC2,CD274,HDAC2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00362,CD274;HDAC2,CD274,HDAC2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00363,CD274;HDAC3,CD274,HDAC3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00363,CD274;HDAC3,CD274,HDAC3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00364,CD274;HDAC8,CD274,HDAC8,Breast Cancer,Breast Cancer,Breast Cancer
+TP00365,CD274;ICOS,CD274,ICOS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00366,CD274;IDO1,CD274,IDO1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00366,CD274;IDO1,CD274,IDO1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00368,CD274;IL15RA,CD274,IL15RA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00369,CD274;IL2RA,CD274,IL2RA,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00370,CD274;IL2RB,CD274,IL2RB,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00370,CD274;IL2RB,CD274,IL2RB,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00370,CD274;IL2RB,CD274,IL2RB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00371,CD274;IL2RG,CD274,IL2RG,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00372,CD274;IL6R,CD274,IL6R,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00372,CD274;IL6R,CD274,IL6R,Lung Cancer,Lung Cancer,Lung Cancer
+TP00373,CD274;IL7R,CD274,IL7R,Lung Cancer,Lung Cancer,Lung Cancer
+TP00373,CD274;IL7R,CD274,IL7R,Melanoma,Melanoma,Melanoma
+TP00374,CD274;KDM1A,CD274,KDM1A,Lung Cancer,Lung Cancer,Lung Cancer
+TP00375,CD274;KDR,CD274,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00375,CD274;KDR,CD274,KDR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00375,CD274;KDR,CD274,KDR,Liver Cancer,Liver Cancer,Liver Cancer
+TP00375,CD274;KDR,CD274,KDR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00375,CD274;KDR,CD274,KDR,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00375,CD274;KDR,CD274,KDR,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00375,CD274;KDR,CD274,KDR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00375,CD274;KDR,CD274,KDR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00375,CD274;KDR,CD274,KDR,Melanoma,Melanoma,Melanoma
+TP00376,CD274;KLRC1,CD274,KLRC1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00377,CD274;KRAS,CD274,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00378,CD274;LAG3,CD274,LAG3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00379,CD274;LGALS3,CD274,LGALS3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00380,CD274;MAP2K1,CD274,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Liver Cancer,Liver Cancer,Liver Cancer
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00381,CD274;MAP2K2,CD274,MAP2K2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00382,CD274;MDM2,CD274,MDM2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00382,CD274;MDM2,CD274,MDM2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00383,CD274;MET,CD274,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP00383,CD274;MET,CD274,MET,Breast Cancer,Breast Cancer,Breast Cancer
+TP00383,CD274;MET,CD274,MET,Melanoma,Melanoma,Melanoma
+TP00383,CD274;MET,CD274,MET,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00384,CD274;MKNK1,CD274,MKNK1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00385,CD274;MKNK2,CD274,MKNK2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00387,CD274;MSLN,CD274,MSLN,Lung Cancer,Lung Cancer,Lung Cancer
+TP00388,CD274;MTOR,CD274,MTOR,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00388,CD274;MTOR,CD274,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00389,CD274;NECTIN4,CD274,NECTIN4,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00390,CD274;NR1H2,CD274,NR1H2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00391,CD274;NT5E,CD274,NT5E,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00391,CD274;NT5E,CD274,NT5E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00391,CD274;NT5E,CD274,NT5E,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00392,CD274;PARP1,CD274,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00392,CD274;PARP1,CD274,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00392,CD274;PARP1,CD274,PARP1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00392,CD274;PARP1,CD274,PARP1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00392,CD274;PARP1,CD274,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00393,CD274;PARP2,CD274,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00393,CD274;PARP2,CD274,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00393,CD274;PARP2,CD274,PARP2,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00393,CD274;PARP2,CD274,PARP2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00393,CD274;PARP2,CD274,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00394,CD274;PCSK9,CD274,PCSK9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00395,CD274;PDCD1,CD274,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00395,CD274;PDCD1,CD274,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00396,CD274;PDGFRA,CD274,PDGFRA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00397,CD274;PDGFRB,CD274,PDGFRB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00397,CD274;PDGFRB,CD274,PDGFRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00398,CD274;PLK4,CD274,PLK4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00399,CD274;PMEL,CD274,PMEL,Melanoma,Melanoma,Melanoma
+TP00401,CD274;PTGER4,CD274,PTGER4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00402,CD274;ROR2,CD274,ROR2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00403,CD274;ROS1,CD274,ROS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00404,CD274;SEMA4D,CD274,SEMA4D,Lung Cancer,Lung Cancer,Lung Cancer
+TP00405,CD274;SLC39A6,CD274,SLC39A6,Breast Cancer,Breast Cancer,Breast Cancer
+TP00406,CD274;SMO,CD274,SMO,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00407,CD274;STAT3,CD274,STAT3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00408,CD274;STING1,CD274,STING1,Melanoma,Melanoma,Melanoma
+TP00409,CD274;TACSTD2,CD274,TACSTD2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00410,CD274;TGFB1,CD274,TGFB1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00411,CD274;TGFB2,CD274,TGFB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00412,CD274;TGFBR1,CD274,TGFBR1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00412,CD274;TGFBR1,CD274,TGFBR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00414,CD274;TIGIT,CD274,TIGIT,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00414,CD274;TIGIT,CD274,TIGIT,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00414,CD274;TIGIT,CD274,TIGIT,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00414,CD274;TIGIT,CD274,TIGIT,Lung Cancer,Lung Cancer,Lung Cancer
+TP00414,CD274;TIGIT,CD274,TIGIT,Melanoma,Melanoma,Melanoma
+TP00417,CD274;TLR9,CD274,TLR9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Breast Cancer,Breast Cancer,Breast Cancer
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Melanoma,Melanoma,Melanoma
+TP00419,CD274;TNFRSF9,CD274,TNFRSF9,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00420,CD274;TNFSF4,CD274,TNFSF4,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Liver Cancer,Liver Cancer,Liver Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00421,CD274;VEGFA,CD274,VEGFA,Melanoma,Melanoma,Melanoma
+TP00421,CD274;VEGFA,CD274,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00423,CD274;XIAP,CD274,XIAP,Lung Cancer,Lung Cancer,Lung Cancer
+TP00424,CD276;CD28,CD276,CD28,Lung Cancer,Lung Cancer,Lung Cancer
+TP00425,CD276;CD3D,CD276,CD3D,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00425,CD276;CD3D,CD276,CD3D,Lung Cancer,Lung Cancer,Lung Cancer
+TP00426,CD276;CD3E,CD276,CD3E,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00426,CD276;CD3E,CD276,CD3E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00427,CD276;CD3G,CD276,CD3G,Lung Cancer,Lung Cancer,Lung Cancer
+TP00427,CD276;CD3G,CD276,CD3G,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00428,CD276;CTLA4,CD276,CTLA4,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00428,CD276;CTLA4,CD276,CTLA4,Liver Cancer,Liver Cancer,Liver Cancer
+TP00428,CD276;CTLA4,CD276,CTLA4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00428,CD276;CTLA4,CD276,CTLA4,Melanoma,Melanoma,Melanoma
+TP00428,CD276;CTLA4,CD276,CTLA4,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00428,CD276;CTLA4,CD276,CTLA4,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00428,CD276;CTLA4,CD276,CTLA4,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Melanoma,Melanoma,Melanoma
+TP00431,CD276;PDCD1,CD276,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00431,CD276;PDCD1,CD276,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00434,CD28;FOLH1,CD28,FOLH1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00435,CD28;MUC16,CD28,MUC16,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00436,CD28;PDCD1,CD28,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00448,CD38;CRBN,CD38,CRBN,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00448,CD38;CRBN,CD38,CRBN,Melanoma,Melanoma,Melanoma
+TP00448,CD38;CRBN,CD38,CRBN,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00452,CD38;PDCD1,CD38,PDCD1,Melanoma,Melanoma,Melanoma
+TP00452,CD38;PDCD1,CD38,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00452,CD38;PDCD1,CD38,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00455,CD3D;CDH17,CD3D,CDH17,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00455,CD3D;CDH17,CD3D,CDH17,Liver Cancer,Liver Cancer,Liver Cancer
+TP00455,CD3D;CDH17,CD3D,CDH17,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00457,CD3D;CEACAM5,CD3D,CEACAM5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00458,CD3D;CLDN18,CD3D,CLDN18,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00459,CD3D;CLDN6,CD3D,CLDN6,Lung Cancer,Lung Cancer,Lung Cancer
+TP00459,CD3D;CLDN6,CD3D,CLDN6,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00462,CD3D;CTLA4,CD3D,CTLA4,Melanoma,Melanoma,Melanoma
+TP00463,CD3D;DLL3,CD3D,DLL3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00463,CD3D;DLL3,CD3D,DLL3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00464,CD3D;EGFR,CD3D,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00464,CD3D;EGFR,CD3D,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00465,CD3D;ENPP3,CD3D,ENPP3,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00466,CD3D;EPCAM,CD3D,EPCAM,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00466,CD3D;EPCAM,CD3D,EPCAM,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00466,CD3D;EPCAM,CD3D,EPCAM,Lung Cancer,Lung Cancer,Lung Cancer
+TP00467,CD3D;ERBB2,CD3D,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00471,CD3D;FOLH1,CD3D,FOLH1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00471,CD3D;FOLH1,CD3D,FOLH1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00471,CD3D;FOLH1,CD3D,FOLH1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00471,CD3D;FOLH1,CD3D,FOLH1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00472,CD3D;GPA33,CD3D,GPA33,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00473,CD3D;GPC3,CD3D,GPC3,Liver Cancer,Liver Cancer,Liver Cancer
+TP00476,CD3D;GUCY2C,CD3D,GUCY2C,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00476,CD3D;GUCY2C,CD3D,GUCY2C,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00479,CD3D;KLK2,CD3D,KLK2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00480,CD3D;LY6G6D,CD3D,LY6G6D,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00482,CD3D;MS4A1,CD3D,MS4A1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00483,CD3D;MUC16,CD3D,MUC16,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00484,CD3D;MUC17,CD3D,MUC17,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00484,CD3D;MUC17,CD3D,MUC17,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00485,CD3D;NCR3LG1,CD3D,NCR3LG1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00485,CD3D;NCR3LG1,CD3D,NCR3LG1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00485,CD3D;NCR3LG1,CD3D,NCR3LG1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00485,CD3D;NCR3LG1,CD3D,NCR3LG1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Melanoma,Melanoma,Melanoma
+TP00486,CD3D;PDCD1,CD3D,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00487,CD3D;PMEL,CD3D,PMEL,Melanoma,Melanoma,Melanoma
+TP00491,CD3D;SSTR2,CD3D,SSTR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00492,CD3D;STEAP1,CD3D,STEAP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00495,CD3D;TPBG,CD3D,TPBG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00496,CD3D;TYRP1,CD3D,TYRP1,Melanoma,Melanoma,Melanoma
+TP00497,CD3D;VTCN1,CD3D,VTCN1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00497,CD3D;VTCN1,CD3D,VTCN1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00497,CD3D;VTCN1,CD3D,VTCN1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00498,CD3E;CDH17,CD3E,CDH17,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00498,CD3E;CDH17,CD3E,CDH17,Liver Cancer,Liver Cancer,Liver Cancer
+TP00498,CD3E;CDH17,CD3E,CDH17,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00500,CD3E;CEACAM5,CD3E,CEACAM5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00501,CD3E;CLDN18,CD3E,CLDN18,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00502,CD3E;CLDN6,CD3E,CLDN6,Lung Cancer,Lung Cancer,Lung Cancer
+TP00502,CD3E;CLDN6,CD3E,CLDN6,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00505,CD3E;CTLA4,CD3E,CTLA4,Melanoma,Melanoma,Melanoma
+TP00506,CD3E;DLL3,CD3E,DLL3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00506,CD3E;DLL3,CD3E,DLL3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00507,CD3E;EGFR,CD3E,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00507,CD3E;EGFR,CD3E,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00508,CD3E;ENPP3,CD3E,ENPP3,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00509,CD3E;EPCAM,CD3E,EPCAM,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00509,CD3E;EPCAM,CD3E,EPCAM,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00509,CD3E;EPCAM,CD3E,EPCAM,Lung Cancer,Lung Cancer,Lung Cancer
+TP00510,CD3E;ERBB2,CD3E,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00514,CD3E;FOLH1,CD3E,FOLH1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00514,CD3E;FOLH1,CD3E,FOLH1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00514,CD3E;FOLH1,CD3E,FOLH1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00514,CD3E;FOLH1,CD3E,FOLH1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00515,CD3E;GPA33,CD3E,GPA33,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00516,CD3E;GPC3,CD3E,GPC3,Liver Cancer,Liver Cancer,Liver Cancer
+TP00519,CD3E;GUCY2C,CD3E,GUCY2C,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00519,CD3E;GUCY2C,CD3E,GUCY2C,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00522,CD3E;KLK2,CD3E,KLK2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00523,CD3E;LY6G6D,CD3E,LY6G6D,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00525,CD3E;MS4A1,CD3E,MS4A1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00526,CD3E;MUC16,CD3E,MUC16,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00527,CD3E;MUC17,CD3E,MUC17,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00527,CD3E;MUC17,CD3E,MUC17,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00528,CD3E;NCR3LG1,CD3E,NCR3LG1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00528,CD3E;NCR3LG1,CD3E,NCR3LG1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00528,CD3E;NCR3LG1,CD3E,NCR3LG1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00528,CD3E;NCR3LG1,CD3E,NCR3LG1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Melanoma,Melanoma,Melanoma
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00529,CD3E;PDCD1,CD3E,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00530,CD3E;PMEL,CD3E,PMEL,Melanoma,Melanoma,Melanoma
+TP00534,CD3E;SSTR2,CD3E,SSTR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00535,CD3E;STEAP1,CD3E,STEAP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00538,CD3E;TPBG,CD3E,TPBG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00539,CD3E;TYRP1,CD3E,TYRP1,Melanoma,Melanoma,Melanoma
+TP00540,CD3E;VTCN1,CD3E,VTCN1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00540,CD3E;VTCN1,CD3E,VTCN1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00540,CD3E;VTCN1,CD3E,VTCN1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00541,CD3G;CDH17,CD3G,CDH17,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00541,CD3G;CDH17,CD3G,CDH17,Liver Cancer,Liver Cancer,Liver Cancer
+TP00541,CD3G;CDH17,CD3G,CDH17,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00543,CD3G;CEACAM5,CD3G,CEACAM5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00544,CD3G;CLDN18,CD3G,CLDN18,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00545,CD3G;CLDN6,CD3G,CLDN6,Lung Cancer,Lung Cancer,Lung Cancer
+TP00545,CD3G;CLDN6,CD3G,CLDN6,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00548,CD3G;CTLA4,CD3G,CTLA4,Melanoma,Melanoma,Melanoma
+TP00549,CD3G;DLL3,CD3G,DLL3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00549,CD3G;DLL3,CD3G,DLL3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00550,CD3G;EGFR,CD3G,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00550,CD3G;EGFR,CD3G,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00551,CD3G;ENPP3,CD3G,ENPP3,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00552,CD3G;EPCAM,CD3G,EPCAM,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00552,CD3G;EPCAM,CD3G,EPCAM,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00552,CD3G;EPCAM,CD3G,EPCAM,Lung Cancer,Lung Cancer,Lung Cancer
+TP00553,CD3G;ERBB2,CD3G,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00557,CD3G;FOLH1,CD3G,FOLH1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00557,CD3G;FOLH1,CD3G,FOLH1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00557,CD3G;FOLH1,CD3G,FOLH1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00557,CD3G;FOLH1,CD3G,FOLH1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00558,CD3G;GPA33,CD3G,GPA33,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00559,CD3G;GPC3,CD3G,GPC3,Liver Cancer,Liver Cancer,Liver Cancer
+TP00562,CD3G;GUCY2C,CD3G,GUCY2C,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00562,CD3G;GUCY2C,CD3G,GUCY2C,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00565,CD3G;KLK2,CD3G,KLK2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00566,CD3G;LY6G6D,CD3G,LY6G6D,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00568,CD3G;MS4A1,CD3G,MS4A1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00569,CD3G;MUC16,CD3G,MUC16,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00570,CD3G;MUC17,CD3G,MUC17,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00570,CD3G;MUC17,CD3G,MUC17,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00571,CD3G;NCR3LG1,CD3G,NCR3LG1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00571,CD3G;NCR3LG1,CD3G,NCR3LG1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00571,CD3G;NCR3LG1,CD3G,NCR3LG1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00571,CD3G;NCR3LG1,CD3G,NCR3LG1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00572,CD3G;PDCD1,CD3G,PDCD1,Melanoma,Melanoma,Melanoma
+TP00573,CD3G;PMEL,CD3G,PMEL,Melanoma,Melanoma,Melanoma
+TP00577,CD3G;SSTR2,CD3G,SSTR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00578,CD3G;STEAP1,CD3G,STEAP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00581,CD3G;TPBG,CD3G,TPBG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00582,CD3G;TYRP1,CD3G,TYRP1,Melanoma,Melanoma,Melanoma
+TP00583,CD3G;VTCN1,CD3G,VTCN1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00583,CD3G;VTCN1,CD3G,VTCN1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00583,CD3G;VTCN1,CD3G,VTCN1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00584,CD40;CSF1R,CD40,CSF1R,Lung Cancer,Lung Cancer,Lung Cancer
+TP00587,CD40;FLT3,CD40,FLT3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00587,CD40;FLT3,CD40,FLT3,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00589,CD40;PDCD1,CD40,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00589,CD40;PDCD1,CD40,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00589,CD40;PDCD1,CD40,PDCD1,Melanoma,Melanoma,Melanoma
+TP00589,CD40;PDCD1,CD40,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00590,CD40;TNFRSF9,CD40,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00590,CD40;TNFRSF9,CD40,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00590,CD40;TNFRSF9,CD40,TNFRSF9,Melanoma,Melanoma,Melanoma
+TP00590,CD40;TNFRSF9,CD40,TNFRSF9,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00591,CD40;TNFSF4,CD40,TNFSF4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00591,CD40;TNFSF4,CD40,TNFSF4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00593,CD47;CLDN18,CD47,CLDN18,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00594,CD47;DLL3,CD47,DLL3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00595,CD47;EGFR,CD47,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00596,CD47;ERBB2,CD47,ERBB2,Liver Cancer,Liver Cancer,Liver Cancer
+TP00596,CD47;ERBB2,CD47,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00598,CD47;MSLN,CD47,MSLN,Breast Cancer,Breast Cancer,Breast Cancer
+TP00598,CD47;MSLN,CD47,MSLN,Lung Cancer,Lung Cancer,Lung Cancer
+TP00598,CD47;MSLN,CD47,MSLN,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00599,CD47;NECTIN4,CD47,NECTIN4,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00600,CD47;PDCD1,CD47,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00600,CD47;PDCD1,CD47,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00601,CD47;TNFRSF9,CD47,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00601,CD47;TNFRSF9,CD47,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00603,CD70;MTOR,CD70,MTOR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00607,CD80;IL2RA,CD80,IL2RA,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00607,CD80;IL2RA,CD80,IL2RA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00607,CD80;IL2RA,CD80,IL2RA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00607,CD80;IL2RA,CD80,IL2RA,Melanoma,Melanoma,Melanoma
+TP00609,CD80;KDR,CD80,KDR,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00609,CD80;KDR,CD80,KDR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00609,CD80;KDR,CD80,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00609,CD80;KDR,CD80,KDR,Melanoma,Melanoma,Melanoma
+TP00610,CD80;PDCD1,CD80,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00610,CD80;PDCD1,CD80,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00610,CD80;PDCD1,CD80,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00610,CD80;PDCD1,CD80,PDCD1,Melanoma,Melanoma,Melanoma
+TP00613,CD8B;IL2RA,CD8B,IL2RA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00613,CD8B;IL2RA,CD8B,IL2RA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00613,CD8B;IL2RA,CD8B,IL2RA,Melanoma,Melanoma,Melanoma
+TP00614,CD8B;IL2RB,CD8B,IL2RB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00614,CD8B;IL2RB,CD8B,IL2RB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00614,CD8B;IL2RB,CD8B,IL2RB,Melanoma,Melanoma,Melanoma
+TP00615,CD8B;IL2RG,CD8B,IL2RG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00615,CD8B;IL2RG,CD8B,IL2RG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00615,CD8B;IL2RG,CD8B,IL2RG,Melanoma,Melanoma,Melanoma
+TP00616,CD8B;PDCD1,CD8B,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00616,CD8B;PDCD1,CD8B,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00616,CD8B;PDCD1,CD8B,PDCD1,Melanoma,Melanoma,Melanoma
+TP00618,CDH17;TNFRSF10B,CDH17,TNFRSF10B,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00618,CDH17;TNFRSF10B,CDH17,TNFRSF10B,Liver Cancer,Liver Cancer,Liver Cancer
+TP00618,CDH17;TNFRSF10B,CDH17,TNFRSF10B,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00620,CDK1;PDCD1,CDK1,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00621,CDK2;ESR1,CDK2,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00621,CDK2;ESR1,CDK2,ESR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00622,CDK2;ESR2,CDK2,ESR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00622,CDK2;ESR2,CDK2,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00624,CDK2;PDCD1,CDK2,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00625,CDK4;CYP19A1,CDK4,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00625,CDK4;CYP19A1,CDK4,CYP19A1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00626,CDK4;EGFR,CDK4,EGFR,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00626,CDK4;EGFR,CDK4,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00627,CDK4;EPAS1,CDK4,EPAS1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00628,CDK4;ERBB2,CDK4,ERBB2,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00628,CDK4;ERBB2,CDK4,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00628,CDK4;ERBB2,CDK4,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00629,CDK4;ERBB4,CDK4,ERBB4,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00630,CDK4;ESR1,CDK4,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00630,CDK4;ESR1,CDK4,ESR1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00630,CDK4;ESR1,CDK4,ESR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00631,CDK4;ESR2,CDK4,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00631,CDK4;ESR2,CDK4,ESR2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00631,CDK4;ESR2,CDK4,ESR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00632,CDK4;IGF1,CDK4,IGF1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00632,CDK4;IGF1,CDK4,IGF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00633,CDK4;IGF2,CDK4,IGF2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00633,CDK4;IGF2,CDK4,IGF2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00634,CDK4;KDR,CDK4,KDR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00634,CDK4;KDR,CDK4,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00635,CDK4;KRAS,CDK4,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00636,CDK4;MAP2K1,CDK4,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00636,CDK4;MAP2K1,CDK4,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00637,CDK4;MAP2K2,CDK4,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00637,CDK4;MAP2K2,CDK4,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00638,CDK4;MAPK1,CDK4,MAPK1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00638,CDK4;MAPK1,CDK4,MAPK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00638,CDK4;MAPK1,CDK4,MAPK1,Melanoma,Melanoma,Melanoma
+TP00638,CDK4;MAPK1,CDK4,MAPK1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00639,CDK4;MAPK3,CDK4,MAPK3,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00639,CDK4;MAPK3,CDK4,MAPK3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00639,CDK4;MAPK3,CDK4,MAPK3,Melanoma,Melanoma,Melanoma
+TP00639,CDK4;MAPK3,CDK4,MAPK3,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00641,CDK4;MTOR,CDK4,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00641,CDK4;MTOR,CDK4,MTOR,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00642,CDK4;NOTCH1,CDK4,NOTCH1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00642,CDK4;NOTCH1,CDK4,NOTCH1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00642,CDK4;NOTCH1,CDK4,NOTCH1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00643,CDK4;PDCD1,CDK4,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00643,CDK4;PDCD1,CDK4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00643,CDK4;PDCD1,CDK4,PDCD1,Melanoma,Melanoma,Melanoma
+TP00644,CDK4;PIK3CA,CDK4,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00644,CDK4;PIK3CA,CDK4,PIK3CA,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00644,CDK4;PIK3CA,CDK4,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00645,CDK4;PTPN11,CDK4,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP00646,CDK4;RAF1,CDK4,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00646,CDK4;RAF1,CDK4,RAF1,Melanoma,Melanoma,Melanoma
+TP00649,CDK5;PDCD1,CDK5,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00650,CDK6;CYP19A1,CDK6,CYP19A1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00650,CDK6;CYP19A1,CDK6,CYP19A1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00651,CDK6;EGFR,CDK6,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00651,CDK6;EGFR,CDK6,EGFR,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00652,CDK6;EPAS1,CDK6,EPAS1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00653,CDK6;ERBB2,CDK6,ERBB2,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00653,CDK6;ERBB2,CDK6,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00653,CDK6;ERBB2,CDK6,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00654,CDK6;ERBB4,CDK6,ERBB4,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00655,CDK6;ESR1,CDK6,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00655,CDK6;ESR1,CDK6,ESR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00655,CDK6;ESR1,CDK6,ESR1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00656,CDK6;ESR2,CDK6,ESR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00656,CDK6;ESR2,CDK6,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00656,CDK6;ESR2,CDK6,ESR2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00657,CDK6;IGF1,CDK6,IGF1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00657,CDK6;IGF1,CDK6,IGF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00658,CDK6;IGF2,CDK6,IGF2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00658,CDK6;IGF2,CDK6,IGF2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00659,CDK6;KDR,CDK6,KDR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00659,CDK6;KDR,CDK6,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00660,CDK6;KRAS,CDK6,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00661,CDK6;MAP2K1,CDK6,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00661,CDK6;MAP2K1,CDK6,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00662,CDK6;MAP2K2,CDK6,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00662,CDK6;MAP2K2,CDK6,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00663,CDK6;MAPK1,CDK6,MAPK1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00663,CDK6;MAPK1,CDK6,MAPK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00663,CDK6;MAPK1,CDK6,MAPK1,Melanoma,Melanoma,Melanoma
+TP00663,CDK6;MAPK1,CDK6,MAPK1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00664,CDK6;MAPK3,CDK6,MAPK3,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00664,CDK6;MAPK3,CDK6,MAPK3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00664,CDK6;MAPK3,CDK6,MAPK3,Melanoma,Melanoma,Melanoma
+TP00664,CDK6;MAPK3,CDK6,MAPK3,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00666,CDK6;MTOR,CDK6,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00666,CDK6;MTOR,CDK6,MTOR,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00667,CDK6;NOTCH1,CDK6,NOTCH1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00667,CDK6;NOTCH1,CDK6,NOTCH1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00667,CDK6;NOTCH1,CDK6,NOTCH1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00668,CDK6;PDCD1,CDK6,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00668,CDK6;PDCD1,CDK6,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00668,CDK6;PDCD1,CDK6,PDCD1,Melanoma,Melanoma,Melanoma
+TP00669,CDK6;PIK3CA,CDK6,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00669,CDK6;PIK3CA,CDK6,PIK3CA,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00669,CDK6;PIK3CA,CDK6,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00670,CDK6;PTPN11,CDK6,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP00671,CDK6;RAF1,CDK6,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00671,CDK6;RAF1,CDK6,RAF1,Melanoma,Melanoma,Melanoma
+TP00673,CDK7;ESR1,CDK7,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00674,CDK7;ESR2,CDK7,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00676,CDK9;PDCD1,CDK9,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00677,CEACAM1;PDCD1,CEACAM1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00679,CEACAM5;KDR,CEACAM5,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00680,CEACAM5;PDCD1,CEACAM5,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00683,CEACAM6;PDCD1,CEACAM6,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00685,CFH;PDCD1,CFH,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00687,CHEK1;MAPK11,CHEK1,MAPK11,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00687,CHEK1;MAPK11,CHEK1,MAPK11,Lung Cancer,Lung Cancer,Lung Cancer
+TP00688,CHEK1;MAPK14,CHEK1,MAPK14,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00688,CHEK1;MAPK14,CHEK1,MAPK14,Lung Cancer,Lung Cancer,Lung Cancer
+TP00689,CHEK1;MTOR,CHEK1,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00689,CHEK1;MTOR,CHEK1,MTOR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00692,CHEK1;PIK3CA,CHEK1,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00692,CHEK1;PIK3CA,CHEK1,PIK3CA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00693,CLDN18;PDCD1,CLDN18,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00694,CLDN18;TNFRSF9,CLDN18,TNFRSF9,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00695,CLDN6;CLDN9,CLDN6,CLDN9,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00696,CLDN6;PDCD1,CLDN6,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00697,CLDN9;PDCD1,CLDN9,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00698,CLEC6A;PDCD1,CLEC6A,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00700,CRBN;EGFR,CRBN,EGFR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00722,CRBN;MTOR,CRBN,MTOR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00723,CRBN;PDCD1,CRBN,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00723,CRBN;PDCD1,CRBN,PDCD1,Melanoma,Melanoma,Melanoma
+TP00734,CREBBP;PARP1,CREBBP,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00735,CREBBP;PARP2,CREBBP,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00736,CSF1;PDCD1,CSF1,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00736,CSF1;PDCD1,CSF1,PDCD1,Melanoma,Melanoma,Melanoma
+TP00736,CSF1;PDCD1,CSF1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00736,CSF1;PDCD1,CSF1,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00741,CSF1R;PDCD1,CSF1R,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00741,CSF1R;PDCD1,CSF1R,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00741,CSF1R;PDCD1,CSF1R,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00741,CSF1R;PDCD1,CSF1R,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00745,CTLA4;EGFR,CTLA4,EGFR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00746,CTLA4;ERBB2,CTLA4,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00747,CTLA4;ERBB3,CTLA4,ERBB3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00748,CTLA4;FLT1,CTLA4,FLT1,Melanoma,Melanoma,Melanoma
+TP00748,CTLA4;FLT1,CTLA4,FLT1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00749,CTLA4;FLT4,CTLA4,FLT4,Melanoma,Melanoma,Melanoma
+TP00749,CTLA4;FLT4,CTLA4,FLT4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00750,CTLA4;HDAC1,CTLA4,HDAC1,Melanoma,Melanoma,Melanoma
+TP00751,CTLA4;HDAC10,CTLA4,HDAC10,Melanoma,Melanoma,Melanoma
+TP00752,CTLA4;HDAC11,CTLA4,HDAC11,Melanoma,Melanoma,Melanoma
+TP00753,CTLA4;HDAC2,CTLA4,HDAC2,Melanoma,Melanoma,Melanoma
+TP00754,CTLA4;HDAC3,CTLA4,HDAC3,Melanoma,Melanoma,Melanoma
+TP00755,CTLA4;HDAC4,CTLA4,HDAC4,Melanoma,Melanoma,Melanoma
+TP00756,CTLA4;HDAC5,CTLA4,HDAC5,Melanoma,Melanoma,Melanoma
+TP00757,CTLA4;HDAC6,CTLA4,HDAC6,Melanoma,Melanoma,Melanoma
+TP00758,CTLA4;HDAC7,CTLA4,HDAC7,Melanoma,Melanoma,Melanoma
+TP00759,CTLA4;HDAC8,CTLA4,HDAC8,Melanoma,Melanoma,Melanoma
+TP00760,CTLA4;HDAC9,CTLA4,HDAC9,Melanoma,Melanoma,Melanoma
+TP00761,CTLA4;ICOS,CTLA4,ICOS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00761,CTLA4;ICOS,CTLA4,ICOS,Melanoma,Melanoma,Melanoma
+TP00762,CTLA4;IDO1,CTLA4,IDO1,Melanoma,Melanoma,Melanoma
+TP00763,CTLA4;IDO2,CTLA4,IDO2,Melanoma,Melanoma,Melanoma
+TP00764,CTLA4;IL15,CTLA4,IL15,Breast Cancer,Breast Cancer,Breast Cancer
+TP00764,CTLA4;IL15,CTLA4,IL15,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00764,CTLA4;IL15,CTLA4,IL15,Melanoma,Melanoma,Melanoma
+TP00765,CTLA4;IL2RA,CTLA4,IL2RA,Melanoma,Melanoma,Melanoma
+TP00766,CTLA4;IL2RB,CTLA4,IL2RB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00766,CTLA4;IL2RB,CTLA4,IL2RB,Melanoma,Melanoma,Melanoma
+TP00767,CTLA4;IL2RG,CTLA4,IL2RG,Melanoma,Melanoma,Melanoma
+TP00768,CTLA4;KDR,CTLA4,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00768,CTLA4;KDR,CTLA4,KDR,Liver Cancer,Liver Cancer,Liver Cancer
+TP00768,CTLA4;KDR,CTLA4,KDR,Melanoma,Melanoma,Melanoma
+TP00769,CTLA4;LAG3,CTLA4,LAG3,Melanoma,Melanoma,Melanoma
+TP00769,CTLA4;LAG3,CTLA4,LAG3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00770,CTLA4;MET,CTLA4,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP00771,CTLA4;NR1H2,CTLA4,NR1H2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00772,CTLA4;NT5E,CTLA4,NT5E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00773,CTLA4;PARP1,CTLA4,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00774,CTLA4;PARP2,CTLA4,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Melanoma,Melanoma,Melanoma
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00775,CTLA4;PDCD1,CTLA4,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00776,CTLA4;PDGFRB,CTLA4,PDGFRB,Melanoma,Melanoma,Melanoma
+TP00776,CTLA4;PDGFRB,CTLA4,PDGFRB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00777,CTLA4;PMEL,CTLA4,PMEL,Melanoma,Melanoma,Melanoma
+TP00778,CTLA4;RARA,CTLA4,RARA,Melanoma,Melanoma,Melanoma
+TP00779,CTLA4;RARB,CTLA4,RARB,Melanoma,Melanoma,Melanoma
+TP00780,CTLA4;RARG,CTLA4,RARG,Melanoma,Melanoma,Melanoma
+TP00782,CTLA4;TACSTD2,CTLA4,TACSTD2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00783,CTLA4;TIGIT,CTLA4,TIGIT,Lung Cancer,Lung Cancer,Lung Cancer
+TP00785,CTLA4;TLR9,CTLA4,TLR9,Melanoma,Melanoma,Melanoma
+TP00789,CTLA4;TNFSF4,CTLA4,TNFSF4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00791,CXCR1;KRAS,CXCR1,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00792,CXCR1;PDCD1,CXCR1,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00792,CXCR1;PDCD1,CXCR1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00792,CXCR1;PDCD1,CXCR1,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00793,CXCR2;KRAS,CXCR2,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00794,CXCR2;PDCD1,CXCR2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00794,CXCR2;PDCD1,CXCR2,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00794,CXCR2;PDCD1,CXCR2,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00795,CXCR4;FLT1,CXCR4,FLT1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00796,CXCR4;FLT4,CXCR4,FLT4,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00797,CXCR4;KDR,CXCR4,KDR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00798,CXCR4;PDCD1,CXCR4,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00799,CXCR4;PDGFRB,CXCR4,PDGFRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00800,CYP17A1;EGFR,CYP17A1,EGFR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00801,CYP17A1;ENG,CYP17A1,ENG,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00802,CYP17A1;IL23A,CYP17A1,IL23A,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00803,CYP17A1;PARP1,CYP17A1,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00804,CYP17A1;PARP2,CYP17A1,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00805,CYP17A1;PGR,CYP17A1,PGR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00806,CYP17A1;PIK3CB,CYP17A1,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00807,CYP19A1;EGFR,CYP19A1,EGFR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00808,CYP19A1;ERBB2,CYP19A1,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00809,CYP19A1;ERBB3,CYP19A1,ERBB3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00810,CYP19A1;ESR1,CYP19A1,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00811,CYP19A1;ESR2,CYP19A1,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00812,CYP19A1;FLT1,CYP19A1,FLT1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00813,CYP19A1;FLT4,CYP19A1,FLT4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00814,CYP19A1;GNRHR,CYP19A1,GNRHR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00815,CYP19A1;HDAC1,CYP19A1,HDAC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00816,CYP19A1;HDAC10,CYP19A1,HDAC10,Breast Cancer,Breast Cancer,Breast Cancer
+TP00817,CYP19A1;HDAC2,CYP19A1,HDAC2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00818,CYP19A1;HDAC3,CYP19A1,HDAC3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00819,CYP19A1;HDAC8,CYP19A1,HDAC8,Breast Cancer,Breast Cancer,Breast Cancer
+TP00820,CYP19A1;HSP90AA1,CYP19A1,HSP90AA1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00821,CYP19A1;HSP90AB1,CYP19A1,HSP90AB1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00822,CYP19A1;IGF1R,CYP19A1,IGF1R,Breast Cancer,Breast Cancer,Breast Cancer
+TP00823,CYP19A1;JAK1,CYP19A1,JAK1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00824,CYP19A1;JAK2,CYP19A1,JAK2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00825,CYP19A1;KDR,CYP19A1,KDR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00826,CYP19A1;MTOR,CYP19A1,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00826,CYP19A1;MTOR,CYP19A1,MTOR,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00827,CYP19A1;MUC1,CYP19A1,MUC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00828,CYP19A1;PIK3CA,CYP19A1,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00829,CYP19A1;PIK3CB,CYP19A1,PIK3CB,Breast Cancer,Breast Cancer,Breast Cancer
+TP00830,CYP19A1;PIK3CD,CYP19A1,PIK3CD,Breast Cancer,Breast Cancer,Breast Cancer
+TP00831,CYP19A1;PIK3CG,CYP19A1,PIK3CG,Breast Cancer,Breast Cancer,Breast Cancer
+TP00832,CYP19A1;RARA,CYP19A1,RARA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00833,CYP19A1;RARB,CYP19A1,RARB,Breast Cancer,Breast Cancer,Breast Cancer
+TP00834,CYP19A1;RARG,CYP19A1,RARG,Breast Cancer,Breast Cancer,Breast Cancer
+TP00835,CYP19A1;TGFB1,CYP19A1,TGFB1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00836,CYP19A1;VEGFA,CYP19A1,VEGFA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00838,DKK1;PDCD1,DKK1,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00838,DKK1;PDCD1,DKK1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00839,DLL3;PDCD1,DLL3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00840,DLL4;VEGFA,DLL4,VEGFA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00840,DLL4;VEGFA,DLL4,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00840,DLL4;VEGFA,DLL4,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00842,EGFL7;ERBB2,EGFL7,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00843,EGFR;ENG,EGFR,ENG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00844,EGFR;ERBB2,EGFR,ERBB2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00844,EGFR;ERBB2,EGFR,ERBB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00844,EGFR;ERBB2,EGFR,ERBB2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00844,EGFR;ERBB2,EGFR,ERBB2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00845,EGFR;ERBB3,EGFR,ERBB3,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00845,EGFR;ERBB3,EGFR,ERBB3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00845,EGFR;ERBB3,EGFR,ERBB3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00845,EGFR;ERBB3,EGFR,ERBB3,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00846,EGFR;ESR1,EGFR,ESR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00846,EGFR;ESR1,EGFR,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00847,EGFR;ESR2,EGFR,ESR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00847,EGFR;ESR2,EGFR,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00849,EGFR;FCGR3A,EGFR,FCGR3A,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00849,EGFR;FCGR3A,EGFR,FCGR3A,Lung Cancer,Lung Cancer,Lung Cancer
+TP00850,EGFR;FLT1,EGFR,FLT1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00851,EGFR;FLT3,EGFR,FLT3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00852,EGFR;FLT4,EGFR,FLT4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00853,EGFR;FNTB,EGFR,FNTB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00854,EGFR;GLS2,EGFR,GLS2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00855,EGFR;GPRC5D,EGFR,GPRC5D,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00855,EGFR;GPRC5D,EGFR,GPRC5D,Lung Cancer,Lung Cancer,Lung Cancer
+TP00856,EGFR;GSAP,EGFR,GSAP,Lung Cancer,Lung Cancer,Lung Cancer
+TP00857,EGFR;HDAC1,EGFR,HDAC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00857,EGFR;HDAC1,EGFR,HDAC1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00858,EGFR;HDAC10,EGFR,HDAC10,Breast Cancer,Breast Cancer,Breast Cancer
+TP00858,EGFR;HDAC10,EGFR,HDAC10,Lung Cancer,Lung Cancer,Lung Cancer
+TP00859,EGFR;HDAC11,EGFR,HDAC11,Lung Cancer,Lung Cancer,Lung Cancer
+TP00860,EGFR;HDAC2,EGFR,HDAC2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00860,EGFR;HDAC2,EGFR,HDAC2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00861,EGFR;HDAC3,EGFR,HDAC3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00861,EGFR;HDAC3,EGFR,HDAC3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00862,EGFR;HDAC4,EGFR,HDAC4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00862,EGFR;HDAC4,EGFR,HDAC4,Lung Cancer,Lung Cancer,Lung Cancer
+TP00863,EGFR;HDAC5,EGFR,HDAC5,Breast Cancer,Breast Cancer,Breast Cancer
+TP00863,EGFR;HDAC5,EGFR,HDAC5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00864,EGFR;HDAC6,EGFR,HDAC6,Breast Cancer,Breast Cancer,Breast Cancer
+TP00864,EGFR;HDAC6,EGFR,HDAC6,Lung Cancer,Lung Cancer,Lung Cancer
+TP00865,EGFR;HDAC7,EGFR,HDAC7,Breast Cancer,Breast Cancer,Breast Cancer
+TP00865,EGFR;HDAC7,EGFR,HDAC7,Lung Cancer,Lung Cancer,Lung Cancer
+TP00866,EGFR;HDAC8,EGFR,HDAC8,Breast Cancer,Breast Cancer,Breast Cancer
+TP00866,EGFR;HDAC8,EGFR,HDAC8,Lung Cancer,Lung Cancer,Lung Cancer
+TP00867,EGFR;HDAC9,EGFR,HDAC9,Breast Cancer,Breast Cancer,Breast Cancer
+TP00867,EGFR;HDAC9,EGFR,HDAC9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00868,EGFR;HGF,EGFR,HGF,Lung Cancer,Lung Cancer,Lung Cancer
+TP00868,EGFR;HGF,EGFR,HGF,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00870,EGFR;HSP90AA1,EGFR,HSP90AA1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00871,EGFR;HSP90AB1,EGFR,HSP90AB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00872,EGFR;IGF1,EGFR,IGF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00873,EGFR;IGF1R,EGFR,IGF1R,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00873,EGFR;IGF1R,EGFR,IGF1R,Lung Cancer,Lung Cancer,Lung Cancer
+TP00874,EGFR;IGF2,EGFR,IGF2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00875,EGFR;IL15,EGFR,IL15,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00877,EGFR;ITGA5,EGFR,ITGA5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00878,EGFR;ITGAV,EGFR,ITGAV,Lung Cancer,Lung Cancer,Lung Cancer
+TP00879,EGFR;ITGB3,EGFR,ITGB3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00880,EGFR;JAK1,EGFR,JAK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00881,EGFR;JAK2,EGFR,JAK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00882,EGFR;KDR,EGFR,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00882,EGFR;KDR,EGFR,KDR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00884,EGFR;KRAS,EGFR,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00884,EGFR;KRAS,EGFR,KRAS,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00885,EGFR;LGR5,EGFR,LGR5,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00885,EGFR;LGR5,EGFR,LGR5,Lung Cancer,Lung Cancer,Lung Cancer
+TP00886,EGFR;MAP2K1,EGFR,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00886,EGFR;MAP2K1,EGFR,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00887,EGFR;MAP2K2,EGFR,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00887,EGFR;MAP2K2,EGFR,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00888,EGFR;MAPK1,EGFR,MAPK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00889,EGFR;MAPK3,EGFR,MAPK3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00890,EGFR;MERTK,EGFR,MERTK,Lung Cancer,Lung Cancer,Lung Cancer
+TP00891,EGFR;MET,EGFR,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP00891,EGFR;MET,EGFR,MET,Breast Cancer,Breast Cancer,Breast Cancer
+TP00891,EGFR;MET,EGFR,MET,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00891,EGFR;MET,EGFR,MET,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00891,EGFR;MET,EGFR,MET,Liver Cancer,Liver Cancer,Liver Cancer
+TP00892,EGFR;MTOR,EGFR,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00892,EGFR;MTOR,EGFR,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00892,EGFR;MTOR,EGFR,MTOR,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00893,EGFR;MUC1,EGFR,MUC1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00893,EGFR;MUC1,EGFR,MUC1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00894,EGFR;NT5E,EGFR,NT5E,Lung Cancer,Lung Cancer,Lung Cancer
+TP00895,EGFR;PARP1,EGFR,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00895,EGFR;PARP1,EGFR,PARP1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00896,EGFR;PARP2,EGFR,PARP2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00896,EGFR;PARP2,EGFR,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00897,EGFR;PDCD1,EGFR,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00897,EGFR;PDCD1,EGFR,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00898,EGFR;PIK3CA,EGFR,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00898,EGFR;PIK3CA,EGFR,PIK3CA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00899,EGFR;PIK3CB,EGFR,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00899,EGFR;PIK3CB,EGFR,PIK3CB,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00900,EGFR;PIK3CD,EGFR,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP00900,EGFR;PIK3CD,EGFR,PIK3CD,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00901,EGFR;PIK3CG,EGFR,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00901,EGFR;PIK3CG,EGFR,PIK3CG,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00902,EGFR;PPARG,EGFR,PPARG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00903,EGFR;PRKCB,EGFR,PRKCB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00904,EGFR;PTK2,EGFR,PTK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00905,EGFR;PTPN11,EGFR,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP00906,EGFR;RAF1,EGFR,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00907,EGFR;RET,EGFR,RET,Lung Cancer,Lung Cancer,Lung Cancer
+TP00908,EGFR;RPS6KB1,EGFR,RPS6KB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00909,EGFR;RXRA,EGFR,RXRA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00910,EGFR;RXRB,EGFR,RXRB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00911,EGFR;TACSTD2,EGFR,TACSTD2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00912,EGFR;TBL1X,EGFR,TBL1X,Lung Cancer,Lung Cancer,Lung Cancer
+TP00913,EGFR;TBL1Y,EGFR,TBL1Y,Lung Cancer,Lung Cancer,Lung Cancer
+TP00914,EGFR;TGFB1,EGFR,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00916,EGFR;TLR9,EGFR,TLR9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00917,EGFR;TNFRSF10B,EGFR,TNFRSF10B,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00918,EGFR;TNFRSF9,EGFR,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00918,EGFR;TNFRSF9,EGFR,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP00919,EGFR;VEGFA,EGFR,VEGFA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00919,EGFR;VEGFA,EGFR,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00919,EGFR;VEGFA,EGFR,VEGFA,Liver Cancer,Liver Cancer,Liver Cancer
+TP00920,ENG;PDCD1,ENG,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00924,EP300;PARP1,EP300,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00925,EP300;PARP2,EP300,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00926,EPAS1;KDR,EPAS1,KDR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00927,EPHA2;PDCD1,EPHA2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00939,ERBB2;ERBB3,ERBB2,ERBB3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00939,ERBB2;ERBB3,ERBB2,ERBB3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00939,ERBB2;ERBB3,ERBB2,ERBB3,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00939,ERBB2;ERBB3,ERBB2,ERBB3,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP00939,ERBB2;ERBB3,ERBB2,ERBB3,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP00940,ERBB2;ESR1,ERBB2,ESR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00941,ERBB2;ESR2,ERBB2,ESR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00942,ERBB2;EZH1,ERBB2,EZH1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00943,ERBB2;EZH2,ERBB2,EZH2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00944,ERBB2;FGFR1,ERBB2,FGFR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00945,ERBB2;FGFR2,ERBB2,FGFR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00946,ERBB2;FGFR3,ERBB2,FGFR3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00947,ERBB2;FLT1,ERBB2,FLT1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00948,ERBB2;FLT4,ERBB2,FLT4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00949,ERBB2;HDAC1,ERBB2,HDAC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00950,ERBB2;HDAC10,ERBB2,HDAC10,Breast Cancer,Breast Cancer,Breast Cancer
+TP00951,ERBB2;HDAC11,ERBB2,HDAC11,Breast Cancer,Breast Cancer,Breast Cancer
+TP00952,ERBB2;HDAC2,ERBB2,HDAC2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00953,ERBB2;HDAC3,ERBB2,HDAC3,Breast Cancer,Breast Cancer,Breast Cancer
+TP00954,ERBB2;HDAC4,ERBB2,HDAC4,Breast Cancer,Breast Cancer,Breast Cancer
+TP00955,ERBB2;HDAC5,ERBB2,HDAC5,Breast Cancer,Breast Cancer,Breast Cancer
+TP00956,ERBB2;HDAC6,ERBB2,HDAC6,Breast Cancer,Breast Cancer,Breast Cancer
+TP00957,ERBB2;HDAC7,ERBB2,HDAC7,Breast Cancer,Breast Cancer,Breast Cancer
+TP00958,ERBB2;HDAC8,ERBB2,HDAC8,Breast Cancer,Breast Cancer,Breast Cancer
+TP00959,ERBB2;HDAC9,ERBB2,HDAC9,Breast Cancer,Breast Cancer,Breast Cancer
+TP00960,ERBB2;HSP90AA1,ERBB2,HSP90AA1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00961,ERBB2;HSP90AB1,ERBB2,HSP90AB1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00962,ERBB2;IGF1,ERBB2,IGF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00963,ERBB2;IGF1R,ERBB2,IGF1R,Breast Cancer,Breast Cancer,Breast Cancer
+TP00964,ERBB2;IGF2,ERBB2,IGF2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00965,ERBB2;IL2RA,ERBB2,IL2RA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00966,ERBB2;IL2RB,ERBB2,IL2RB,Breast Cancer,Breast Cancer,Breast Cancer
+TP00967,ERBB2;IL2RG,ERBB2,IL2RG,Breast Cancer,Breast Cancer,Breast Cancer
+TP00968,ERBB2;IL6R,ERBB2,IL6R,Breast Cancer,Breast Cancer,Breast Cancer
+TP00969,ERBB2;ITGAV,ERBB2,ITGAV,Lung Cancer,Lung Cancer,Lung Cancer
+TP00970,ERBB2;ITGB3,ERBB2,ITGB3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00971,ERBB2;JAK1,ERBB2,JAK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00971,ERBB2;JAK1,ERBB2,JAK1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00972,ERBB2;JAK2,ERBB2,JAK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00972,ERBB2;JAK2,ERBB2,JAK2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00973,ERBB2;KDR,ERBB2,KDR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00974,ERBB2;KRAS,ERBB2,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP00975,ERBB2;MAP2K1,ERBB2,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00975,ERBB2;MAP2K1,ERBB2,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00976,ERBB2;MAP2K2,ERBB2,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00976,ERBB2;MAP2K2,ERBB2,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00977,ERBB2;MET,ERBB2,MET,Breast Cancer,Breast Cancer,Breast Cancer
+TP00978,ERBB2;MTOR,ERBB2,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP00978,ERBB2;MTOR,ERBB2,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP00979,ERBB2;PARP1,ERBB2,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00979,ERBB2;PARP1,ERBB2,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00980,ERBB2;PARP2,ERBB2,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP00980,ERBB2;PARP2,ERBB2,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Melanoma,Melanoma,Melanoma
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00981,ERBB2;PDCD1,ERBB2,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00982,ERBB2;PIK3CA,ERBB2,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00982,ERBB2;PIK3CA,ERBB2,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP00983,ERBB2;PIK3CB,ERBB2,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP00983,ERBB2;PIK3CB,ERBB2,PIK3CB,Breast Cancer,Breast Cancer,Breast Cancer
+TP00984,ERBB2;PIK3CD,ERBB2,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP00984,ERBB2;PIK3CD,ERBB2,PIK3CD,Breast Cancer,Breast Cancer,Breast Cancer
+TP00985,ERBB2;PIK3CG,ERBB2,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP00985,ERBB2;PIK3CG,ERBB2,PIK3CG,Breast Cancer,Breast Cancer,Breast Cancer
+TP00986,ERBB2;SIRPA,ERBB2,SIRPA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00987,ERBB2;TLR9,ERBB2,TLR9,Breast Cancer,Breast Cancer,Breast Cancer
+TP00988,ERBB2;TNFRSF9,ERBB2,TNFRSF9,Breast Cancer,Breast Cancer,Breast Cancer
+TP00988,ERBB2;TNFRSF9,ERBB2,TNFRSF9,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP00989,ERBB2;VEGFA,ERBB2,VEGFA,Breast Cancer,Breast Cancer,Breast Cancer
+TP00990,ERBB3;IGF1R,ERBB3,IGF1R,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP00990,ERBB3;IGF1R,ERBB3,IGF1R,Liver Cancer,Liver Cancer,Liver Cancer
+TP00990,ERBB3;IGF1R,ERBB3,IGF1R,Lung Cancer,Lung Cancer,Lung Cancer
+TP00990,ERBB3;IGF1R,ERBB3,IGF1R,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP00991,ERBB3;MAP2K1,ERBB3,MAP2K1,Melanoma,Melanoma,Melanoma
+TP00992,ERBB3;MAP2K2,ERBB3,MAP2K2,Melanoma,Melanoma,Melanoma
+TP00993,ERBB3;PDCD1,ERBB3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00994,ERBB4;IGF1,ERBB4,IGF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00995,ERBB4;IGF2,ERBB4,IGF2,Lung Cancer,Lung Cancer,Lung Cancer
+TP00996,ERBB4;ITGAV,ERBB4,ITGAV,Lung Cancer,Lung Cancer,Lung Cancer
+TP00997,ERBB4;ITGB3,ERBB4,ITGB3,Lung Cancer,Lung Cancer,Lung Cancer
+TP00998,ERBB4;JAK1,ERBB4,JAK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP00999,ERBB4;JAK2,ERBB4,JAK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01000,ERBB4;KRAS,ERBB4,KRAS,Lung Cancer,Lung Cancer,Lung Cancer
+TP01001,ERBB4;MAP2K1,ERBB4,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01002,ERBB4;MAP2K2,ERBB4,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01003,ERBB4;MTOR,ERBB4,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01004,ERBB4;PDCD1,ERBB4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01005,ESR1;FGFR1,ESR1,FGFR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01006,ESR1;FGFR2,ESR1,FGFR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01007,ESR1;FGFR3,ESR1,FGFR3,Breast Cancer,Breast Cancer,Breast Cancer
+TP01008,ESR1;FLT1,ESR1,FLT1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01009,ESR1;FLT4,ESR1,FLT4,Breast Cancer,Breast Cancer,Breast Cancer
+TP01010,ESR1;FNTB,ESR1,FNTB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01011,ESR1;GNRHR,ESR1,GNRHR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01012,ESR1;HDAC1,ESR1,HDAC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01013,ESR1;HDAC10,ESR1,HDAC10,Breast Cancer,Breast Cancer,Breast Cancer
+TP01014,ESR1;HDAC2,ESR1,HDAC2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01015,ESR1;HDAC3,ESR1,HDAC3,Breast Cancer,Breast Cancer,Breast Cancer
+TP01016,ESR1;HDAC8,ESR1,HDAC8,Breast Cancer,Breast Cancer,Breast Cancer
+TP01017,ESR1;HSP90AA1,ESR1,HSP90AA1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01018,ESR1;HSP90AB1,ESR1,HSP90AB1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01019,ESR1;IGF1R,ESR1,IGF1R,Breast Cancer,Breast Cancer,Breast Cancer
+TP01020,ESR1;KAT6A,ESR1,KAT6A,Lung Cancer,Lung Cancer,Lung Cancer
+TP01021,ESR1;KDR,ESR1,KDR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01024,ESR1;MAPK11,ESR1,MAPK11,Breast Cancer,Breast Cancer,Breast Cancer
+TP01025,ESR1;MAPK14,ESR1,MAPK14,Breast Cancer,Breast Cancer,Breast Cancer
+TP01026,ESR1;MTOR,ESR1,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01026,ESR1;MTOR,ESR1,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01027,ESR1;PARP1,ESR1,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01027,ESR1;PARP1,ESR1,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01028,ESR1;PARP2,ESR1,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01028,ESR1;PARP2,ESR1,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01029,ESR1;PDCD1,ESR1,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01030,ESR1;PGR,ESR1,PGR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01031,ESR1;PIK3CA,ESR1,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01031,ESR1;PIK3CA,ESR1,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01031,ESR1;PIK3CA,ESR1,PIK3CA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01032,ESR1;PIK3CB,ESR1,PIK3CB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01033,ESR1;PIK3CD,ESR1,PIK3CD,Breast Cancer,Breast Cancer,Breast Cancer
+TP01033,ESR1;PIK3CD,ESR1,PIK3CD,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01034,ESR1;PIK3CG,ESR1,PIK3CG,Breast Cancer,Breast Cancer,Breast Cancer
+TP01035,ESR1;PRKCB,ESR1,PRKCB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01036,ESR1;TTK,ESR1,TTK,Breast Cancer,Breast Cancer,Breast Cancer
+TP01037,ESR2;FGFR1,ESR2,FGFR1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01038,ESR2;FGFR2,ESR2,FGFR2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01039,ESR2;FGFR3,ESR2,FGFR3,Breast Cancer,Breast Cancer,Breast Cancer
+TP01040,ESR2;FLT1,ESR2,FLT1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01041,ESR2;FLT4,ESR2,FLT4,Breast Cancer,Breast Cancer,Breast Cancer
+TP01042,ESR2;FNTB,ESR2,FNTB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01043,ESR2;GNRHR,ESR2,GNRHR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01044,ESR2;HDAC1,ESR2,HDAC1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01045,ESR2;HDAC10,ESR2,HDAC10,Breast Cancer,Breast Cancer,Breast Cancer
+TP01046,ESR2;HDAC2,ESR2,HDAC2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01047,ESR2;HDAC3,ESR2,HDAC3,Breast Cancer,Breast Cancer,Breast Cancer
+TP01048,ESR2;HDAC8,ESR2,HDAC8,Breast Cancer,Breast Cancer,Breast Cancer
+TP01049,ESR2;HSP90AA1,ESR2,HSP90AA1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01050,ESR2;HSP90AB1,ESR2,HSP90AB1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01051,ESR2;IGF1R,ESR2,IGF1R,Breast Cancer,Breast Cancer,Breast Cancer
+TP01052,ESR2;KAT6A,ESR2,KAT6A,Lung Cancer,Lung Cancer,Lung Cancer
+TP01053,ESR2;KDR,ESR2,KDR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01056,ESR2;MAPK11,ESR2,MAPK11,Breast Cancer,Breast Cancer,Breast Cancer
+TP01057,ESR2;MAPK14,ESR2,MAPK14,Breast Cancer,Breast Cancer,Breast Cancer
+TP01058,ESR2;MTOR,ESR2,MTOR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01058,ESR2;MTOR,ESR2,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01059,ESR2;PARP1,ESR2,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01059,ESR2;PARP1,ESR2,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01060,ESR2;PARP2,ESR2,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01060,ESR2;PARP2,ESR2,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01061,ESR2;PDCD1,ESR2,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01062,ESR2;PGR,ESR2,PGR,Breast Cancer,Breast Cancer,Breast Cancer
+TP01063,ESR2;PIK3CA,ESR2,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01063,ESR2;PIK3CA,ESR2,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01063,ESR2;PIK3CA,ESR2,PIK3CA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01064,ESR2;PIK3CB,ESR2,PIK3CB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01065,ESR2;PIK3CD,ESR2,PIK3CD,Breast Cancer,Breast Cancer,Breast Cancer
+TP01065,ESR2;PIK3CD,ESR2,PIK3CD,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01066,ESR2;PIK3CG,ESR2,PIK3CG,Breast Cancer,Breast Cancer,Breast Cancer
+TP01067,ESR2;PRKCB,ESR2,PRKCB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01068,ESR2;TTK,ESR2,TTK,Breast Cancer,Breast Cancer,Breast Cancer
+TP01069,EZH1;PDCD1,EZH1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01071,EZH2;PARP1,EZH2,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01072,EZH2;PARP2,EZH2,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01073,EZH2;PDCD1,EZH2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01075,F3;PDCD1,F3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01075,F3;PDCD1,F3,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01076,F3;VEGFA,F3,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01076,F3;VEGFA,F3,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01077,FAP;IL2RA,FAP,IL2RA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01077,FAP;IL2RA,FAP,IL2RA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01077,FAP;IL2RA,FAP,IL2RA,Melanoma,Melanoma,Melanoma
+TP01077,FAP;IL2RA,FAP,IL2RA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01078,FAP;IL2RB,FAP,IL2RB,Breast Cancer,Breast Cancer,Breast Cancer
+TP01078,FAP;IL2RB,FAP,IL2RB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01078,FAP;IL2RB,FAP,IL2RB,Melanoma,Melanoma,Melanoma
+TP01078,FAP;IL2RB,FAP,IL2RB,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01079,FAP;IL2RG,FAP,IL2RG,Breast Cancer,Breast Cancer,Breast Cancer
+TP01079,FAP;IL2RG,FAP,IL2RG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01079,FAP;IL2RG,FAP,IL2RG,Melanoma,Melanoma,Melanoma
+TP01079,FAP;IL2RG,FAP,IL2RG,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01080,FAP;PDCD1,FAP,PDCD1,Melanoma,Melanoma,Melanoma
+TP01081,FAP;TNFRSF9,FAP,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01087,FGFR1;MAP2K1,FGFR1,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01088,FGFR1;MAP2K2,FGFR1,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01090,FGFR1;PDCD1,FGFR1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01090,FGFR1;PDCD1,FGFR1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01090,FGFR1;PDCD1,FGFR1,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01092,FGFR2;MAP2K1,FGFR2,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01093,FGFR2;MAP2K2,FGFR2,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01095,FGFR2;PDCD1,FGFR2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01095,FGFR2;PDCD1,FGFR2,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01095,FGFR2;PDCD1,FGFR2,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01097,FGFR3;MAP2K1,FGFR3,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01098,FGFR3;MAP2K2,FGFR3,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01100,FGFR3;PDCD1,FGFR3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01100,FGFR3;PDCD1,FGFR3,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01100,FGFR3;PDCD1,FGFR3,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01102,FGFR4;MAP2K1,FGFR4,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01103,FGFR4;MAP2K2,FGFR4,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01105,FGFR4;PDCD1,FGFR4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01107,FLT1;GSAP,FLT1,GSAP,Lung Cancer,Lung Cancer,Lung Cancer
+TP01108,FLT1;MTOR,FLT1,MTOR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01109,FLT1;PARP1,FLT1,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01109,FLT1;PARP1,FLT1,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01109,FLT1;PARP1,FLT1,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01109,FLT1;PARP1,FLT1,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01110,FLT1;PARP2,FLT1,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01110,FLT1;PARP2,FLT1,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01110,FLT1;PARP2,FLT1,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01110,FLT1;PARP2,FLT1,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01111,FLT1;PDCD1,FLT1,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01111,FLT1;PDCD1,FLT1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01111,FLT1;PDCD1,FLT1,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01111,FLT1;PDCD1,FLT1,PDCD1,Melanoma,Melanoma,Melanoma
+TP01111,FLT1;PDCD1,FLT1,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01112,FLT1;PIK3CA,FLT1,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01113,FLT1;PIK3CB,FLT1,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP01114,FLT1;PIK3CD,FLT1,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01115,FLT1;PIK3CG,FLT1,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP01118,FLT3;PDCD1,FLT3,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01118,FLT3;PDCD1,FLT3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01121,FLT4;GSAP,FLT4,GSAP,Lung Cancer,Lung Cancer,Lung Cancer
+TP01122,FLT4;MTOR,FLT4,MTOR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01123,FLT4;PARP1,FLT4,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01123,FLT4;PARP1,FLT4,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01123,FLT4;PARP1,FLT4,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01123,FLT4;PARP1,FLT4,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01124,FLT4;PARP2,FLT4,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01124,FLT4;PARP2,FLT4,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01124,FLT4;PARP2,FLT4,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01124,FLT4;PARP2,FLT4,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01125,FLT4;PDCD1,FLT4,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01125,FLT4;PDCD1,FLT4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01125,FLT4;PDCD1,FLT4,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01125,FLT4;PDCD1,FLT4,PDCD1,Melanoma,Melanoma,Melanoma
+TP01125,FLT4;PDCD1,FLT4,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01126,FLT4;PIK3CA,FLT4,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01127,FLT4;PIK3CB,FLT4,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP01128,FLT4;PIK3CD,FLT4,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01129,FLT4;PIK3CG,FLT4,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP01136,FOLR1;PARP1,FOLR1,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01136,FOLR1;PARP1,FOLR1,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01137,FOLR1;PARP2,FOLR1,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01137,FOLR1;PARP2,FOLR1,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01138,FOLR1;PDCD1,FOLR1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01140,FOLR1;VEGFA,FOLR1,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01142,GLS2;MTOR,GLS2,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01142,GLS2;MTOR,GLS2,MTOR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01143,GLS2;PARP1,GLS2,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01144,GLS2;PARP2,GLS2,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01145,GLS2;PDCD1,GLS2,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01145,GLS2;PDCD1,GLS2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01145,GLS2;PDCD1,GLS2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01146,GNA11;GNAQ,GNA11,GNAQ,Melanoma,Melanoma,Melanoma
+TP01149,GSAP;KDR,GSAP,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01151,HAVCR2;PDCD1,HAVCR2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01151,HAVCR2;PDCD1,HAVCR2,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01151,HAVCR2;PDCD1,HAVCR2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01151,HAVCR2;PDCD1,HAVCR2,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01156,HDAC1;MTOR,HDAC1,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01157,HDAC1;PDCD1,HDAC1,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01157,HDAC1;PDCD1,HDAC1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01157,HDAC1;PDCD1,HDAC1,PDCD1,Melanoma,Melanoma,Melanoma
+TP01161,HDAC1;RXRA,HDAC1,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01162,HDAC1;RXRB,HDAC1,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01163,HDAC1;RXRG,HDAC1,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01164,HDAC1;VEGFA,HDAC1,VEGFA,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01164,HDAC1;VEGFA,HDAC1,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01169,HDAC10;MTOR,HDAC10,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01170,HDAC10;PDCD1,HDAC10,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01170,HDAC10;PDCD1,HDAC10,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01170,HDAC10;PDCD1,HDAC10,PDCD1,Melanoma,Melanoma,Melanoma
+TP01172,HDAC10;RXRA,HDAC10,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01173,HDAC10;RXRB,HDAC10,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01174,HDAC10;RXRG,HDAC10,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01175,HDAC10;VEGFA,HDAC10,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01175,HDAC10;VEGFA,HDAC10,VEGFA,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01180,HDAC11;PDCD1,HDAC11,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01180,HDAC11;PDCD1,HDAC11,PDCD1,Melanoma,Melanoma,Melanoma
+TP01186,HDAC2;MTOR,HDAC2,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01187,HDAC2;PDCD1,HDAC2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01187,HDAC2;PDCD1,HDAC2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01187,HDAC2;PDCD1,HDAC2,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01191,HDAC2;RXRA,HDAC2,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01192,HDAC2;RXRB,HDAC2,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01193,HDAC2;RXRG,HDAC2,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01194,HDAC2;VEGFA,HDAC2,VEGFA,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01194,HDAC2;VEGFA,HDAC2,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01199,HDAC3;MTOR,HDAC3,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01200,HDAC3;PDCD1,HDAC3,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01200,HDAC3;PDCD1,HDAC3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01200,HDAC3;PDCD1,HDAC3,PDCD1,Melanoma,Melanoma,Melanoma
+TP01204,HDAC3;RXRA,HDAC3,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01205,HDAC3;RXRB,HDAC3,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01206,HDAC3;RXRG,HDAC3,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01207,HDAC3;VEGFA,HDAC3,VEGFA,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01207,HDAC3;VEGFA,HDAC3,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01211,HDAC4;MTOR,HDAC4,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01212,HDAC4;PDCD1,HDAC4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01212,HDAC4;PDCD1,HDAC4,PDCD1,Melanoma,Melanoma,Melanoma
+TP01213,HDAC4;RXRA,HDAC4,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01214,HDAC4;RXRB,HDAC4,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01215,HDAC4;RXRG,HDAC4,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01216,HDAC4;VEGFA,HDAC4,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01220,HDAC5;MTOR,HDAC5,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01221,HDAC5;PDCD1,HDAC5,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01221,HDAC5;PDCD1,HDAC5,PDCD1,Melanoma,Melanoma,Melanoma
+TP01222,HDAC5;RXRA,HDAC5,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01223,HDAC5;RXRB,HDAC5,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01224,HDAC5;RXRG,HDAC5,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01225,HDAC5;VEGFA,HDAC5,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01228,HDAC6;MAP2K1,HDAC6,MAP2K1,Melanoma,Melanoma,Melanoma
+TP01229,HDAC6;MAP2K2,HDAC6,MAP2K2,Melanoma,Melanoma,Melanoma
+TP01231,HDAC6;MTOR,HDAC6,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01232,HDAC6;PARP1,HDAC6,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01232,HDAC6;PARP1,HDAC6,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01232,HDAC6;PARP1,HDAC6,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01233,HDAC6;PARP2,HDAC6,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01233,HDAC6;PARP2,HDAC6,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01233,HDAC6;PARP2,HDAC6,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01234,HDAC6;PDCD1,HDAC6,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01234,HDAC6;PDCD1,HDAC6,PDCD1,Melanoma,Melanoma,Melanoma
+TP01235,HDAC6;RXRA,HDAC6,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01236,HDAC6;RXRB,HDAC6,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01237,HDAC6;RXRG,HDAC6,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01238,HDAC6;VEGFA,HDAC6,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01242,HDAC7;MTOR,HDAC7,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01243,HDAC7;PDCD1,HDAC7,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01243,HDAC7;PDCD1,HDAC7,PDCD1,Melanoma,Melanoma,Melanoma
+TP01244,HDAC7;RXRA,HDAC7,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01245,HDAC7;RXRB,HDAC7,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01246,HDAC7;RXRG,HDAC7,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01247,HDAC7;VEGFA,HDAC7,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01251,HDAC8;MTOR,HDAC8,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01252,HDAC8;PDCD1,HDAC8,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01252,HDAC8;PDCD1,HDAC8,PDCD1,Melanoma,Melanoma,Melanoma
+TP01252,HDAC8;PDCD1,HDAC8,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01256,HDAC8;RXRA,HDAC8,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01257,HDAC8;RXRB,HDAC8,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01258,HDAC8;RXRG,HDAC8,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01259,HDAC8;VEGFA,HDAC8,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01263,HDAC9;MTOR,HDAC9,MTOR,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01264,HDAC9;PDCD1,HDAC9,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01264,HDAC9;PDCD1,HDAC9,PDCD1,Melanoma,Melanoma,Melanoma
+TP01265,HDAC9;RXRA,HDAC9,RXRA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01266,HDAC9;RXRB,HDAC9,RXRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01267,HDAC9;RXRG,HDAC9,RXRG,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01268,HDAC9;VEGFA,HDAC9,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01269,HGF;VEGFA,HGF,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01274,HSP90AA1;MET,HSP90AA1,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP01275,HSP90AA1;MTOR,HSP90AA1,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01276,HSP90AA1;PDCD1,HSP90AA1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01280,HSP90AB1;MET,HSP90AB1,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP01281,HSP90AB1;MTOR,HSP90AB1,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01282,HSP90AB1;PDCD1,HSP90AB1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01284,ICOS;LAG3,ICOS,LAG3,Melanoma,Melanoma,Melanoma
+TP01285,ICOS;PDCD1,ICOS,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01285,ICOS;PDCD1,ICOS,PDCD1,Melanoma,Melanoma,Melanoma
+TP01291,IDO1;MTOR,IDO1,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01292,IDO1;PDCD1,IDO1,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01292,IDO1;PDCD1,IDO1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01292,IDO1;PDCD1,IDO1,PDCD1,Melanoma,Melanoma,Melanoma
+TP01292,IDO1;PDCD1,IDO1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01292,IDO1;PDCD1,IDO1,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01292,IDO1;PDCD1,IDO1,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01293,IDO2;PDCD1,IDO2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01295,IFNAR1;PDCD1,IFNAR1,PDCD1,Melanoma,Melanoma,Melanoma
+TP01296,IFNAR1;VEGFA,IFNAR1,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01298,IFNAR2;PDCD1,IFNAR2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01299,IFNAR2;VEGFA,IFNAR2,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01300,IGF1;IGF2,IGF1,IGF2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01300,IGF1;IGF2,IGF1,IGF2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01300,IGF1;IGF2,IGF1,IGF2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01301,IGF1R;MAP2K1,IGF1R,MAP2K1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01302,IGF1R;MAP2K2,IGF1R,MAP2K2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01307,IGF1R;TNFRSF10B,IGF1R,TNFRSF10B,Lung Cancer,Lung Cancer,Lung Cancer
+TP01308,IGSF1;PDCD1,IGSF1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01309,IKZF2;PDCD1,IKZF2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01311,IL10RA;PDCD1,IL10RA,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01314,IL15;PDCD1,IL15,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01315,IL15;TGFBR2,IL15,TGFBR2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01316,IL15RA;PDCD1,IL15RA,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01317,IL18R1;PDCD1,IL18R1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01318,IL1B;PDCD1,IL1B,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01318,IL1B;PDCD1,IL1B,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01318,IL1B;PDCD1,IL1B,PDCD1,Melanoma,Melanoma,Melanoma
+TP01319,IL1RAP;PDCD1,IL1RAP,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01323,IL27;PDCD1,IL27,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01324,IL2RA;KDR,IL2RA,KDR,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01324,IL2RA;KDR,IL2RA,KDR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01324,IL2RA;KDR,IL2RA,KDR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01324,IL2RA;KDR,IL2RA,KDR,Melanoma,Melanoma,Melanoma
+TP01326,IL2RA;PDCD1,IL2RA,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01326,IL2RA;PDCD1,IL2RA,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01326,IL2RA;PDCD1,IL2RA,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01326,IL2RA;PDCD1,IL2RA,PDCD1,Melanoma,Melanoma,Melanoma
+TP01326,IL2RA;PDCD1,IL2RA,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01327,IL2RA;VEGFA,IL2RA,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01329,IL2RB;PDCD1,IL2RB,PDCD1,Melanoma,Melanoma,Melanoma
+TP01329,IL2RB;PDCD1,IL2RB,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01329,IL2RB;PDCD1,IL2RB,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01329,IL2RB;PDCD1,IL2RB,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01329,IL2RB;PDCD1,IL2RB,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01329,IL2RB;PDCD1,IL2RB,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01331,IL2RB;TLR7,IL2RB,TLR7,Lung Cancer,Lung Cancer,Lung Cancer
+TP01332,IL2RB;TLR8,IL2RB,TLR8,Lung Cancer,Lung Cancer,Lung Cancer
+TP01333,IL2RB;VEGFA,IL2RB,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01335,IL2RG;PDCD1,IL2RG,PDCD1,Melanoma,Melanoma,Melanoma
+TP01335,IL2RG;PDCD1,IL2RG,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01335,IL2RG;PDCD1,IL2RG,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01335,IL2RG;PDCD1,IL2RG,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01336,IL2RG;TLR7,IL2RG,TLR7,Lung Cancer,Lung Cancer,Lung Cancer
+TP01337,IL2RG;TLR8,IL2RG,TLR8,Lung Cancer,Lung Cancer,Lung Cancer
+TP01338,IL2RG;VEGFA,IL2RG,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01339,IL4R;PDCD1,IL4R,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01340,IL6R;PDCD1,IL6R,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01341,IL7R;PDCD1,IL7R,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01341,IL7R;PDCD1,IL7R,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01343,ITGAV;PDCD1,ITGAV,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01346,JAK1;MAP2K1,JAK1,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01346,JAK1;MAP2K1,JAK1,MAP2K1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01346,JAK1;MAP2K1,JAK1,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01347,JAK1;MAP2K2,JAK1,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01347,JAK1;MAP2K2,JAK1,MAP2K2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01347,JAK1;MAP2K2,JAK1,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Melanoma,Melanoma,Melanoma
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01350,JAK1;PDCD1,JAK1,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01360,JAK2;MAP2K1,JAK2,MAP2K1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01360,JAK2;MAP2K1,JAK2,MAP2K1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01360,JAK2;MAP2K1,JAK2,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01361,JAK2;MAP2K2,JAK2,MAP2K2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01361,JAK2;MAP2K2,JAK2,MAP2K2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01361,JAK2;MAP2K2,JAK2,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01374,KDR;MET,KDR,MET,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01374,KDR;MET,KDR,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP01375,KDR;MTOR,KDR,MTOR,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01376,KDR;PARP1,KDR,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01376,KDR;PARP1,KDR,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01376,KDR;PARP1,KDR,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01376,KDR;PARP1,KDR,PARP1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01377,KDR;PARP2,KDR,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01377,KDR;PARP2,KDR,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01377,KDR;PARP2,KDR,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01377,KDR;PARP2,KDR,PARP2,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Melanoma,Melanoma,Melanoma
+TP01378,KDR;PDCD1,KDR,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01378,KDR;PDCD1,KDR,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01379,KDR;PIK3CA,KDR,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01380,KDR;PIK3CB,KDR,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP01381,KDR;PIK3CD,KDR,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01382,KDR;PIK3CG,KDR,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP01383,KDR;ROS1,KDR,ROS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01384,KDR;TGFBR1,KDR,TGFBR1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01386,KLK2;PDCD1,KLK2,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01387,KLRC1;PDCD1,KLRC1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01388,KRAS;MAP2K1,KRAS,MAP2K1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01389,KRAS;MAP2K2,KRAS,MAP2K2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01390,KRAS;MAPK1,KRAS,MAPK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01391,KRAS;MAPK3,KRAS,MAPK3,Lung Cancer,Lung Cancer,Lung Cancer
+TP01392,KRAS;MTOR,KRAS,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01393,KRAS;PARP1,KRAS,PARP1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01394,KRAS;PARP2,KRAS,PARP2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01395,KRAS;PDCD1,KRAS,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01396,KRAS;PIK3CA,KRAS,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01398,KRAS;PTPN11,KRAS,PTPN11,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01398,KRAS;PTPN11,KRAS,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP01398,KRAS;PTPN11,KRAS,PTPN11,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01399,KRAS;RAF1,KRAS,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01400,KRAS;SOS1,KRAS,SOS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01401,KRAS;ULK1,KRAS,ULK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01402,KRAS;ULK2,KRAS,ULK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01403,KRAS;VEGFA,KRAS,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Melanoma,Melanoma,Melanoma
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01404,LAG3;PDCD1,LAG3,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01406,LAIR1;PDCD1,LAIR1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01407,LGALS3;PDCD1,LGALS3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01408,LILRB1;LILRB2,LILRB1,LILRB2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01409,LILRB1;PDCD1,LILRB1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01410,LILRB2;PDCD1,LILRB2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01411,LILRB4;PDCD1,LILRB4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01414,MAP2K1;MAPK1,MAP2K1,MAPK1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01414,MAP2K1;MAPK1,MAP2K1,MAPK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01414,MAP2K1;MAPK1,MAP2K1,MAPK1,Melanoma,Melanoma,Melanoma
+TP01415,MAP2K1;MAPK3,MAP2K1,MAPK3,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01415,MAP2K1;MAPK3,MAP2K1,MAPK3,Lung Cancer,Lung Cancer,Lung Cancer
+TP01415,MAP2K1;MAPK3,MAP2K1,MAPK3,Melanoma,Melanoma,Melanoma
+TP01416,MAP2K1;MDM2,MAP2K1,MDM2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01417,MAP2K1;MET,MAP2K1,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP01418,MAP2K1;MTOR,MAP2K1,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01419,MAP2K1;PARP1,MAP2K1,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01420,MAP2K1;PARP2,MAP2K1,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01421,MAP2K1;PDCD1,MAP2K1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01422,MAP2K1;PIK3CA,MAP2K1,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01424,MAP2K1;PIK3CD,MAP2K1,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01426,MAP2K1;PTK2,MAP2K1,PTK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01426,MAP2K1;PTK2,MAP2K1,PTK2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01426,MAP2K1;PTK2,MAP2K1,PTK2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01427,MAP2K1;RAF1,MAP2K1,RAF1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01427,MAP2K1;RAF1,MAP2K1,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01427,MAP2K1;RAF1,MAP2K1,RAF1,Melanoma,Melanoma,Melanoma
+TP01428,MAP2K1;ROS1,MAP2K1,ROS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01430,MAP2K1;TGFB1,MAP2K1,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01431,MAP2K1;ULK1,MAP2K1,ULK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01432,MAP2K1;ULK2,MAP2K1,ULK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01435,MAP2K2;MDM2,MAP2K2,MDM2,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01436,MAP2K2;MET,MAP2K2,MET,Lung Cancer,Lung Cancer,Lung Cancer
+TP01437,MAP2K2;MTOR,MAP2K2,MTOR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01438,MAP2K2;PARP1,MAP2K2,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01439,MAP2K2;PARP2,MAP2K2,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01440,MAP2K2;PDCD1,MAP2K2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01441,MAP2K2;PIK3CA,MAP2K2,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01443,MAP2K2;PIK3CD,MAP2K2,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01445,MAP2K2;PTK2,MAP2K2,PTK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01445,MAP2K2;PTK2,MAP2K2,PTK2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01445,MAP2K2;PTK2,MAP2K2,PTK2,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01446,MAP2K2;RAF1,MAP2K2,RAF1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01446,MAP2K2;RAF1,MAP2K2,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01446,MAP2K2;RAF1,MAP2K2,RAF1,Melanoma,Melanoma,Melanoma
+TP01447,MAP2K2;ROS1,MAP2K2,ROS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01449,MAP2K2;TGFB1,MAP2K2,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01450,MAP2K2;ULK1,MAP2K2,ULK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01451,MAP2K2;ULK2,MAP2K2,ULK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01452,MAP4K1;PDCD1,MAP4K1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01453,MAP4K1;TNFSF4,MAP4K1,TNFSF4,Lung Cancer,Lung Cancer,Lung Cancer
+TP01455,MAPK1;PTPN11,MAPK1,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP01456,MAPK1;RAF1,MAPK1,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01456,MAPK1;RAF1,MAPK1,RAF1,Melanoma,Melanoma,Melanoma
+TP01457,MAPK11;PDCD1,MAPK11,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01458,MAPK14;PDCD1,MAPK14,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01460,MAPK3;PTPN11,MAPK3,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP01461,MAPK3;RAF1,MAPK3,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01461,MAPK3;RAF1,MAPK3,RAF1,Melanoma,Melanoma,Melanoma
+TP01463,MAT2A;PRMT5,MAT2A,PRMT5,Lung Cancer,Lung Cancer,Lung Cancer
+TP01466,MDM2;PDCD1,MDM2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01466,MDM2;PDCD1,MDM2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01467,MELTF;TNFRSF9,MELTF,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01467,MELTF;TNFRSF9,MELTF,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP01467,MELTF;TNFRSF9,MELTF,TNFRSF9,Melanoma,Melanoma,Melanoma
+TP01467,MELTF;TNFRSF9,MELTF,TNFRSF9,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01468,MERTK;PDCD1,MERTK,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01468,MERTK;PDCD1,MERTK,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01468,MERTK;PDCD1,MERTK,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01469,MET;PDCD1,MET,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01469,MET;PDCD1,MET,PDCD1,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01469,MET;PDCD1,MET,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01469,MET;PDCD1,MET,PDCD1,Melanoma,Melanoma,Melanoma
+TP01474,MET;ROS1,MET,ROS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01475,MET;VEGFA,MET,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01478,MKNK1;PDCD1,MKNK1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01479,MKNK2;PDCD1,MKNK2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01495,MS4A1;TNFRSF9,MS4A1,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP01497,MSLN;PDCD1,MSLN,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01498,MTOR;NOTCH1,MTOR,NOTCH1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01498,MTOR;NOTCH1,MTOR,NOTCH1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01498,MTOR;NOTCH1,MTOR,NOTCH1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01500,MTOR;PARP1,MTOR,PARP1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01500,MTOR;PARP1,MTOR,PARP1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01501,MTOR;PARP2,MTOR,PARP2,Breast Cancer,Breast Cancer,Breast Cancer
+TP01501,MTOR;PARP2,MTOR,PARP2,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01502,MTOR;PDCD1,MTOR,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01502,MTOR;PDCD1,MTOR,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01503,MTOR;PIK3CA,MTOR,PIK3CA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01503,MTOR;PIK3CA,MTOR,PIK3CA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01503,MTOR;PIK3CA,MTOR,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01504,MTOR;PIK3CB,MTOR,PIK3CB,Lung Cancer,Lung Cancer,Lung Cancer
+TP01505,MTOR;PIK3CD,MTOR,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01506,MTOR;PIK3CG,MTOR,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP01507,MTOR;PTK7,MTOR,PTK7,Breast Cancer,Breast Cancer,Breast Cancer
+TP01508,MTOR;RAF1,MTOR,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01509,MTOR;RPS6KB1,MTOR,RPS6KB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01510,MTOR;SMO,MTOR,SMO,Esophageal Cancer,Esophageal Cancer,Esophageal Cancer
+TP01511,MTOR;SSTR1,MTOR,SSTR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01512,MTOR;SSTR2,MTOR,SSTR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01513,MTOR;SSTR3,MTOR,SSTR3,Lung Cancer,Lung Cancer,Lung Cancer
+TP01514,MTOR;SSTR5,MTOR,SSTR5,Lung Cancer,Lung Cancer,Lung Cancer
+TP01515,MTOR;VEGFA,MTOR,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01515,MTOR;VEGFA,MTOR,VEGFA,Liver Cancer,Liver Cancer,Liver Cancer
+TP01515,MTOR;VEGFA,MTOR,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01515,MTOR;VEGFA,MTOR,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01516,MUC16;PDCD1,MUC16,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01519,NCR3LG1;PDCD1,NCR3LG1,PDCD1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01519,NCR3LG1;PDCD1,NCR3LG1,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01519,NCR3LG1;PDCD1,NCR3LG1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01519,NCR3LG1;PDCD1,NCR3LG1,PDCD1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01520,NECTIN4;PDCD1,NECTIN4,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01520,NECTIN4;PDCD1,NECTIN4,PDCD1,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01523,NOS1;PDCD1,NOS1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01524,NOS2;PDCD1,NOS2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01525,NOS3;PDCD1,NOS3,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01526,NOTCH1;PIK3CA,NOTCH1,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01526,NOTCH1;PIK3CA,NOTCH1,PIK3CA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01526,NOTCH1;PIK3CA,NOTCH1,PIK3CA,Liver Cancer,Liver Cancer,Liver Cancer
+TP01527,NOTCH1;SMO,NOTCH1,SMO,Breast Cancer,Breast Cancer,Breast Cancer
+TP01527,NOTCH1;SMO,NOTCH1,SMO,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01527,NOTCH1;SMO,NOTCH1,SMO,Liver Cancer,Liver Cancer,Liver Cancer
+TP01529,NT5E;PDCD1,NT5E,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01530,NT5E;TGFB1,NT5E,TGFB1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01531,NT5E;VEGFA,NT5E,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01533,PARP1;PDCD1,PARP1,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01533,PARP1;PDCD1,PARP1,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01533,PARP1;PDCD1,PARP1,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01533,PARP1;PDCD1,PARP1,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01533,PARP1;PDCD1,PARP1,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01533,PARP1;PDCD1,PARP1,PDCD1,Melanoma,Melanoma,Melanoma
+TP01534,PARP1;PIK3CA,PARP1,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01534,PARP1;PIK3CA,PARP1,PIK3CA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01534,PARP1;PIK3CA,PARP1,PIK3CA,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01535,PARP1;PIK3CD,PARP1,PIK3CD,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01536,PARP1;TACSTD2,PARP1,TACSTD2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01537,PARP1;TGFB1,PARP1,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01538,PARP1;VEGFA,PARP1,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01538,PARP1;VEGFA,PARP1,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01538,PARP1;VEGFA,PARP1,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01539,PARP1;WEE1,PARP1,WEE1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01540,PARP2;PDCD1,PARP2,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01540,PARP2;PDCD1,PARP2,PDCD1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01540,PARP2;PDCD1,PARP2,PDCD1,Breast Cancer,Breast Cancer,Breast Cancer
+TP01540,PARP2;PDCD1,PARP2,PDCD1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01540,PARP2;PDCD1,PARP2,PDCD1,Melanoma,Melanoma,Melanoma
+TP01540,PARP2;PDCD1,PARP2,PDCD1,Prostate Cancer,Prostate Cancer,Prostate Cancer
+TP01541,PARP2;PIK3CA,PARP2,PIK3CA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01541,PARP2;PIK3CA,PARP2,PIK3CA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01542,PARP2;TACSTD2,PARP2,TACSTD2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01543,PARP2;TGFB1,PARP2,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01544,PARP2;VEGFA,PARP2,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01544,PARP2;VEGFA,PARP2,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01544,PARP2;VEGFA,PARP2,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01545,PARP2;WEE1,PARP2,WEE1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01546,PCSK9;PDCD1,PCSK9,PDCD1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01547,PDCD1;PDGFRA,PDCD1,PDGFRA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01547,PDCD1;PDGFRA,PDCD1,PDGFRA,Melanoma,Melanoma,Melanoma
+TP01547,PDCD1;PDGFRA,PDCD1,PDGFRA,Liver Cancer,Liver Cancer,Liver Cancer
+TP01548,PDCD1;PDGFRB,PDCD1,PDGFRB,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01548,PDCD1;PDGFRB,PDCD1,PDGFRB,Liver Cancer,Liver Cancer,Liver Cancer
+TP01548,PDCD1;PDGFRB,PDCD1,PDGFRB,Lung Cancer,Lung Cancer,Lung Cancer
+TP01548,PDCD1;PDGFRB,PDCD1,PDGFRB,Melanoma,Melanoma,Melanoma
+TP01549,PDCD1;PIK3CA,PDCD1,PIK3CA,Liver Cancer,Liver Cancer,Liver Cancer
+TP01549,PDCD1;PIK3CA,PDCD1,PIK3CA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01550,PDCD1;PIK3CB,PDCD1,PIK3CB,Melanoma,Melanoma,Melanoma
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Melanoma,Melanoma,Melanoma
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Liver Cancer,Liver Cancer,Liver Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Lung Cancer,Lung Cancer,Lung Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Breast Cancer,Breast Cancer,Breast Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01551,PDCD1;PIK3CD,PDCD1,PIK3CD,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01552,PDCD1;PIK3CG,PDCD1,PIK3CG,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01552,PDCD1;PIK3CG,PDCD1,PIK3CG,Lung Cancer,Lung Cancer,Lung Cancer
+TP01552,PDCD1;PIK3CG,PDCD1,PIK3CG,Melanoma,Melanoma,Melanoma
+TP01553,PDCD1;PLK1,PDCD1,PLK1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01554,PDCD1;PMEL,PDCD1,PMEL,Melanoma,Melanoma,Melanoma
+TP01556,PDCD1;PPARA,PDCD1,PPARA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01557,PDCD1;PTGER2,PDCD1,PTGER2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01558,PDCD1;PTGER4,PDCD1,PTGER4,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01558,PDCD1;PTGER4,PDCD1,PTGER4,Lung Cancer,Lung Cancer,Lung Cancer
+TP01559,PDCD1;PTK2,PDCD1,PTK2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01560,PDCD1;PTPN11,PDCD1,PTPN11,Lung Cancer,Lung Cancer,Lung Cancer
+TP01561,PDCD1;PVRIG,PDCD1,PVRIG,Lung Cancer,Lung Cancer,Lung Cancer
+TP01562,PDCD1;RAF1,PDCD1,RAF1,Melanoma,Melanoma,Melanoma
+TP01565,PDCD1;RNF43,PDCD1,RNF43,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01566,PDCD1;RORC,PDCD1,RORC,Lung Cancer,Lung Cancer,Lung Cancer
+TP01568,PDCD1;SEZ6,PDCD1,SEZ6,Lung Cancer,Lung Cancer,Lung Cancer
+TP01569,PDCD1;SIGLEC15,PDCD1,SIGLEC15,Lung Cancer,Lung Cancer,Lung Cancer
+TP01572,PDCD1;SLC39A6,PDCD1,SLC39A6,Lung Cancer,Lung Cancer,Lung Cancer
+TP01573,PDCD1;SMO,PDCD1,SMO,Lung Cancer,Lung Cancer,Lung Cancer
+TP01574,PDCD1;STAB1,PDCD1,STAB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01575,PDCD1;STAT3,PDCD1,STAT3,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01575,PDCD1;STAT3,PDCD1,STAT3,Liver Cancer,Liver Cancer,Liver Cancer
+TP01576,PDCD1;STING1,PDCD1,STING1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01580,PDCD1;SYK,PDCD1,SYK,Breast Cancer,Breast Cancer,Breast Cancer
+TP01580,PDCD1;SYK,PDCD1,SYK,Lung Cancer,Lung Cancer,Lung Cancer
+TP01581,PDCD1;TACSTD2,PDCD1,TACSTD2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01582,PDCD1;TGFB1,PDCD1,TGFB1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01584,PDCD1;TGFBR1,PDCD1,TGFBR1,Liver Cancer,Liver Cancer,Liver Cancer
+TP01584,PDCD1;TGFBR1,PDCD1,TGFBR1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01584,PDCD1;TGFBR1,PDCD1,TGFBR1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01584,PDCD1;TGFBR1,PDCD1,TGFBR1,Melanoma,Melanoma,Melanoma
+TP01585,PDCD1;TGFBR2,PDCD1,TGFBR2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01586,PDCD1;TIGIT,PDCD1,TIGIT,Lung Cancer,Lung Cancer,Lung Cancer
+TP01586,PDCD1;TIGIT,PDCD1,TIGIT,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01587,PDCD1;TIPARP,PDCD1,TIPARP,Lung Cancer,Lung Cancer,Lung Cancer
+TP01589,PDCD1;TLR8,PDCD1,TLR8,Lung Cancer,Lung Cancer,Lung Cancer
+TP01590,PDCD1;TLR9,PDCD1,TLR9,Melanoma,Melanoma,Melanoma
+TP01590,PDCD1;TLR9,PDCD1,TLR9,Lung Cancer,Lung Cancer,Lung Cancer
+TP01591,PDCD1;TNF,PDCD1,TNF,Melanoma,Melanoma,Melanoma
+TP01592,PDCD1;TNFRSF10B,PDCD1,TNFRSF10B,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01592,PDCD1;TNFRSF10B,PDCD1,TNFRSF10B,Melanoma,Melanoma,Melanoma
+TP01594,PDCD1;TNFRSF1B,PDCD1,TNFRSF1B,Lung Cancer,Lung Cancer,Lung Cancer
+TP01595,PDCD1;TNFRSF8,PDCD1,TNFRSF8,Lung Cancer,Lung Cancer,Lung Cancer
+TP01595,PDCD1;TNFRSF8,PDCD1,TNFRSF8,Melanoma,Melanoma,Melanoma
+TP01596,PDCD1;TNFRSF9,PDCD1,TNFRSF9,Lung Cancer,Lung Cancer,Lung Cancer
+TP01596,PDCD1;TNFRSF9,PDCD1,TNFRSF9,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01596,PDCD1;TNFRSF9,PDCD1,TNFRSF9,Melanoma,Melanoma,Melanoma
+TP01596,PDCD1;TNFRSF9,PDCD1,TNFRSF9,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01597,PDCD1;TNFSF11,PDCD1,TNFSF11,Melanoma,Melanoma,Melanoma
+TP01597,PDCD1;TNFSF11,PDCD1,TNFSF11,Lung Cancer,Lung Cancer,Lung Cancer
+TP01598,PDCD1;TNFSF4,PDCD1,TNFSF4,Bladder Cancer,Bladder Cancer,Bladder Cancer
+TP01598,PDCD1;TNFSF4,PDCD1,TNFSF4,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01598,PDCD1;TNFSF4,PDCD1,TNFSF4,Lung Cancer,Lung Cancer,Lung Cancer
+TP01598,PDCD1;TNFSF4,PDCD1,TNFSF4,Melanoma,Melanoma,Melanoma
+TP01599,PDCD1;TP53,PDCD1,TP53,Lung Cancer,Lung Cancer,Lung Cancer
+TP01600,PDCD1;TREM1,PDCD1,TREM1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01601,PDCD1;TREM2,PDCD1,TREM2,Lung Cancer,Lung Cancer,Lung Cancer
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Lung Cancer,Lung Cancer,Lung Cancer
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Breast Cancer,Breast Cancer,Breast Cancer
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Liver Cancer,Liver Cancer,Liver Cancer
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Kidney Cancer,Kidney Cancer,Kidney Cancer
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Melanoma,Melanoma,Melanoma
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01602,PDCD1;VEGFA,PDCD1,VEGFA,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01603,PDCD1;VSIR,PDCD1,VSIR,Lung Cancer,Lung Cancer,Lung Cancer
+TP01604,PDCD1;XIAP,PDCD1,XIAP,Lung Cancer,Lung Cancer,Lung Cancer
+TP01604,PDCD1;XIAP,PDCD1,XIAP,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01604,PDCD1;XIAP,PDCD1,XIAP,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01604,PDCD1;XIAP,PDCD1,XIAP,Breast Cancer,Breast Cancer,Breast Cancer
+TP01604,PDCD1;XIAP,PDCD1,XIAP,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01605,PDCD1;XPO1,PDCD1,XPO1,Colorectal Cancer,Colorectal Cancer,Colorectal Cancer
+TP01605,PDCD1;XPO1,PDCD1,XPO1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01605,PDCD1;XPO1,PDCD1,XPO1,Melanoma,Melanoma,Melanoma
+TP01609,PIK3CA;PRKCB,PIK3CA,PRKCB,Melanoma,Melanoma,Melanoma
+TP01610,PIK3CA;PTK7,PIK3CA,PTK7,Breast Cancer,Breast Cancer,Breast Cancer
+TP01626,PTK2;RAF1,PTK2,RAF1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01626,PTK2;RAF1,PTK2,RAF1,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01626,PTK2;RAF1,PTK2,RAF1,Pancreatic Cancer,Pancreatic Cancer,Pancreatic Cancer
+TP01627,PTPN11;ROS1,PTPN11,ROS1,Lung Cancer,Lung Cancer,Lung Cancer
+TP01628,PVRIG;TIGIT,PVRIG,TIGIT,Lung Cancer,Lung Cancer,Lung Cancer
+TP01630,TACSTD2;TIGIT,TACSTD2,TIGIT,Lung Cancer,Lung Cancer,Lung Cancer
+TP01633,TIGIT;TNFRSF8,TIGIT,TNFRSF8,Lung Cancer,Lung Cancer,Lung Cancer
+TP01635,TNFRSF10B;XIAP,TNFRSF10B,XIAP,Ovarian Cancer,Ovarian Cancer,Ovarian Cancer
+TP01639,VEGFA;WEE1,VEGFA,WEE1,Lung Cancer,Lung Cancer,Lung Cancer

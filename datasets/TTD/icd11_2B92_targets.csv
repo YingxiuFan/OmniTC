@@ -1,0 +1,8 @@
+﻿# 直肠癌 (Rectum cancer)
+# ICD-11代码: 2B92
+TARGETID	GENENAME	TARGTYPE	TARGNAME
+T18876	PTGER4	Clinical trial	Prostaglandin E2 receptor EP4 (PTGER4)
+T52227	Candi TMP1	Successful	Candida Thymidylate synthase (Candi TMP1)
+T71266	AKT3	Successful	RAC-gamma serine/threonine-protein kinase (AKT3)
+T81735	PRKDC	Clinical trial	DNA-dependent protein kinase catalytic (PRKDC)
+T91451	UBE2T	Clinical trial	E2 ubiquitin-conjugating enzyme T (UBE2T)
